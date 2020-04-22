@@ -90,6 +90,11 @@ func main() {
 		// Grab the emoji from the "Copy emoji" input field on the HTML page
 		emojiString, _ := doc.Find(".copy-paste input[type=text]").Attr("value")
 
+		// If the value is not the one of the Variation Selector-16, make sure to remove it from the value itself
+		if emojiString != "️" {
+			emojiString = strings.ReplaceAll(emojiString, "️", "")
+		}
+
 		// Grab the shortcodes from the list
 		var shortCodes []string
 		doc.Find("ul.shortcodes li").Each(func(i int, s *goquery.Selection) {
