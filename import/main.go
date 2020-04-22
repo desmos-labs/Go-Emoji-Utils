@@ -8,12 +8,19 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"regexp"
+	"strings"
 
 	"github.com/tmdvs/Go-Emoji-Utils/utils"
 
 	"github.com/tmdvs/Go-Emoji-Utils"
 
 	"github.com/PuerkitoBio/goquery"
+)
+
+var (
+	// emojiCodeRegex represents the regex that allows to strip down an emoji descriptor to get its shortcode
+	emojiCodeRegex = regexp.MustCompile("[^a-zA-Z0-9\\s-]+")
 )
 
 type lookup struct {
@@ -83,6 +90,17 @@ func main() {
 		// Grab the emoji from the "Copy emoji" input field on the HTML page
 		emojiString, _ := doc.Find(".copy-paste input[type=text]").Attr("value")
 
+		// Grab the shortcodes from the list
+		var shortCodes []string
+		doc.Find("ul.shortcodes li").Each(func(i int, s *goquery.Selection) {
+			shortCodes = append(shortCodes, s.Text())
+		})
+
+		// Generate a shortcode based on the emoji name if no shortcodes were found
+		if len(shortCodes) == 0 {
+			shortCodes = append(shortCodes, getEmojiShortCode(lookup.Name))
+		}
+
 		// Convert the raw Emoji value to our hex key
 		hexString := utils.StringToHexKey(emojiString)
 
@@ -91,6 +109,7 @@ func main() {
 			Key:        hexString,
 			Value:      emojiString,
 			Descriptor: lookup.Name,
+			Shortcodes: shortCodes,
 		}
 
 		// Print our progress to the console
@@ -100,4 +119,16 @@ func main() {
 	// Marshal the emojis map as JSON and write to the data directory
 	s, _ := json.MarshalIndent(emojis, "", "\t")
 	ioutil.WriteFile("data/emoji.json", []byte(s), 0644)
+}
+
+// getEmojiShortCode takes the given string value and converts it to the appropriate shortcode.
+// In particular, it will return a lowercase value with all the special symbols removed and
+// the spaces converted to be "_".
+func getEmojiShortCode(name string) string {
+	shortCode := emojiCodeRegex.ReplaceAllString(name, "")
+	shortCode = strings.ToLower(shortCode)
+	shortCode = strings.ReplaceAll(shortCode, " ", "_")
+	shortCode = strings.ReplaceAll(shortCode, "-", "_")
+	shortCode = fmt.Sprintf(":%s:", shortCode)
+	return shortCode
 }

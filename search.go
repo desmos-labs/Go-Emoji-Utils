@@ -20,7 +20,14 @@ type SearchResults []SearchResult
 // IndexOf - Check to see if search results contains a specific element
 func (results SearchResults) IndexOf(result interface{}) int {
 	for i, r := range results {
-		if r.Match == result {
+		emojiMatch, matchIsEmoji := r.Match.(Emoji)
+		emojiResult, resultIsEmoji := result.(Emoji)
+
+		if matchIsEmoji && resultIsEmoji {
+			if emojiMatch.Equals(emojiResult) {
+				return i
+			}
+		} else if r.Match == result {
 			return i
 		}
 	}

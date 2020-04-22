@@ -14,9 +14,24 @@ import (
 
 // Emoji - Struct representing Emoji
 type Emoji struct {
-	Key        string `json:"key"`
-	Value      string `json:"value"`
-	Descriptor string `json:"descriptor"`
+	Key        string   `json:"key"`
+	Value      string   `json:"value"`
+	Descriptor string   `json:"descriptor"`
+	Shortcodes []string `json:"shortcodes"`
+}
+
+func (emoji Emoji) Equals(other Emoji) bool {
+	if len(emoji.Shortcodes) != len(other.Shortcodes) {
+		return false
+	}
+
+	for index, code := range emoji.Shortcodes {
+		if code != other.Shortcodes[index] {
+			return false
+		}
+	}
+
+	return emoji.Key == other.Key && emoji.Value == other.Value && emoji.Descriptor == other.Descriptor
 }
 
 // Unmarshal the emoji JSON into the Emojis map
@@ -77,6 +92,19 @@ func LookupEmojis(emoji []string) (matches []interface{}) {
 	}
 
 	return
+}
+
+// LookupEmojiByCode - Lookup a single emoji definition by its shortcode
+func LookupEmojiByCode(shortcode string) (emoji Emoji, err error) {
+	for _, emoji := range Emojis {
+		for _, s := range emoji.Shortcodes {
+			if s == shortcode {
+				return emoji, nil
+			}
+		}
+	}
+
+	return Emoji{}, fmt.Errorf("No emoji found for shortcode \"%s\"", shortcode)
 }
 
 // RemoveAll - Remove all emoji
