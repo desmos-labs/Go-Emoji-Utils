@@ -460,7 +460,7 @@
 		"value": "🇨🇩",
 		"descriptor": "Flag: Congo - Kinshasa",
 		"shortcodes": [
-			":flag_congo___kinshasa:"
+			":flag_congo_-_kinshasa:"
 		]
 	},
 	"1F1E8-1F1EB": {
@@ -476,7 +476,7 @@
 		"value": "🇨🇬",
 		"descriptor": "Flag: Congo - Brazzaville",
 		"shortcodes": [
-			":flag_congo___brazzaville:"
+			":flag_congo_-_brazzaville:"
 		]
 	},
 	"1F1E8-1F1ED": {
@@ -917,7 +917,7 @@
 		"value": "🇬🇼",
 		"descriptor": "Flag: Guinea-Bissau",
 		"shortcodes": [
-			":flag_guinea_bissau:"
+			":flag_guinea-bissau:"
 		]
 	},
 	"1F1EC-1F1FE": {
@@ -1957,7 +1957,7 @@
 		"value": "🇹🇱",
 		"descriptor": "Flag: Timor-Leste",
 		"shortcodes": [
-			":flag_timor_leste:"
+			":flag_timor-leste:"
 		]
 	},
 	"1F1F9-1F1F2": {
@@ -3390,7 +3390,7 @@
 		"value": "🎅🏼",
 		"descriptor": "Santa Claus: Medium-Light Skin Tone",
 		"shortcodes": [
-			":santa_claus_medium_light_skin_tone:"
+			":santa_claus_medium-light_skin_tone:"
 		]
 	},
 	"1F385-1F3FD": {
@@ -3406,7 +3406,7 @@
 		"value": "🎅🏾",
 		"descriptor": "Santa Claus: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":santa_claus_medium_dark_skin_tone:"
+			":santa_claus_medium-dark_skin_tone:"
 		]
 	},
 	"1F385-1F3FF": {
@@ -3903,7 +3903,7 @@
 		"value": "🏃🏼",
 		"descriptor": "Person Running: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_running_medium_light_skin_tone:"
+			":person_running_medium-light_skin_tone:"
 		]
 	},
 	"1F3C3-1F3FC-200D-2640": {
@@ -3911,7 +3911,7 @@
 		"value": "🏃🏼‍♀",
 		"descriptor": "Woman Running: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_running_medium_light_skin_tone:"
+			":woman_running_medium-light_skin_tone:"
 		]
 	},
 	"1F3C3-1F3FC-200D-2642": {
@@ -3919,7 +3919,7 @@
 		"value": "🏃🏼‍♂",
 		"descriptor": "Man Running: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_running_medium_light_skin_tone:"
+			":man_running_medium-light_skin_tone:"
 		]
 	},
 	"1F3C3-1F3FD": {
@@ -3951,7 +3951,7 @@
 		"value": "🏃🏾",
 		"descriptor": "Person Running: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_running_medium_dark_skin_tone:"
+			":person_running_medium-dark_skin_tone:"
 		]
 	},
 	"1F3C3-1F3FE-200D-2640": {
@@ -3959,7 +3959,7 @@
 		"value": "🏃🏾‍♀",
 		"descriptor": "Woman Running: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_running_medium_dark_skin_tone:"
+			":woman_running_medium-dark_skin_tone:"
 		]
 	},
 	"1F3C3-1F3FE-200D-2642": {
@@ -3967,7 +3967,7 @@
 		"value": "🏃🏾‍♂",
 		"descriptor": "Man Running: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_running_medium_dark_skin_tone:"
+			":man_running_medium-dark_skin_tone:"
 		]
 	},
 	"1F3C3-1F3FF": {
@@ -4047,7 +4047,7 @@
 		"value": "🏄🏼",
 		"descriptor": "Person Surfing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_surfing_medium_light_skin_tone:"
+			":person_surfing_medium-light_skin_tone:"
 		]
 	},
 	"1F3C4-1F3FC-200D-2640": {
@@ -4055,7 +4055,7 @@
 		"value": "🏄🏼‍♀",
 		"descriptor": "Woman Surfing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_surfing_medium_light_skin_tone:"
+			":woman_surfing_medium-light_skin_tone:"
 		]
 	},
 	"1F3C4-1F3FC-200D-2642": {
@@ -4063,7 +4063,7 @@
 		"value": "🏄🏼‍♂",
 		"descriptor": "Man Surfing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_surfing_medium_light_skin_tone:"
+			":man_surfing_medium-light_skin_tone:"
 		]
 	},
 	"1F3C4-1F3FD": {
@@ -4095,7 +4095,7 @@
 		"value": "🏄🏾",
 		"descriptor": "Person Surfing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_surfing_medium_dark_skin_tone:"
+			":person_surfing_medium-dark_skin_tone:"
 		]
 	},
 	"1F3C4-1F3FE-200D-2640": {
@@ -4103,7 +4103,7 @@
 		"value": "🏄🏾‍♀",
 		"descriptor": "Woman Surfing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_surfing_medium_dark_skin_tone:"
+			":woman_surfing_medium-dark_skin_tone:"
 		]
 	},
 	"1F3C4-1F3FE-200D-2642": {
@@ -4111,7 +4111,7 @@
 		"value": "🏄🏾‍♂",
 		"descriptor": "Man Surfing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_surfing_medium_dark_skin_tone:"
+			":man_surfing_medium-dark_skin_tone:"
 		]
 	},
 	"1F3C4-1F3FF": {
@@ -4191,7 +4191,7 @@
 		"value": "🏇🏼",
 		"descriptor": "Horse Racing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":horse_racing_medium_light_skin_tone:"
+			":horse_racing_medium-light_skin_tone:"
 		]
 	},
 	"1F3C7-1F3FD": {
@@ -4207,7 +4207,7 @@
 		"value": "🏇🏾",
 		"descriptor": "Horse Racing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":horse_racing_medium_dark_skin_tone:"
+			":horse_racing_medium-dark_skin_tone:"
 		]
 	},
 	"1F3C7-1F3FF": {
@@ -4271,7 +4271,7 @@
 		"value": "🏊🏼",
 		"descriptor": "Person Swimming: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_swimming_medium_light_skin_tone:"
+			":person_swimming_medium-light_skin_tone:"
 		]
 	},
 	"1F3CA-1F3FC-200D-2640": {
@@ -4279,7 +4279,7 @@
 		"value": "🏊🏼‍♀",
 		"descriptor": "Woman Swimming: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_swimming_medium_light_skin_tone:"
+			":woman_swimming_medium-light_skin_tone:"
 		]
 	},
 	"1F3CA-1F3FC-200D-2642": {
@@ -4287,7 +4287,7 @@
 		"value": "🏊🏼‍♂",
 		"descriptor": "Man Swimming: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_swimming_medium_light_skin_tone:"
+			":man_swimming_medium-light_skin_tone:"
 		]
 	},
 	"1F3CA-1F3FD": {
@@ -4319,7 +4319,7 @@
 		"value": "🏊🏾",
 		"descriptor": "Person Swimming: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_swimming_medium_dark_skin_tone:"
+			":person_swimming_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CA-1F3FE-200D-2640": {
@@ -4327,7 +4327,7 @@
 		"value": "🏊🏾‍♀",
 		"descriptor": "Woman Swimming: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_swimming_medium_dark_skin_tone:"
+			":woman_swimming_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CA-1F3FE-200D-2642": {
@@ -4335,7 +4335,7 @@
 		"value": "🏊🏾‍♂",
 		"descriptor": "Man Swimming: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_swimming_medium_dark_skin_tone:"
+			":man_swimming_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CA-1F3FF": {
@@ -4415,7 +4415,7 @@
 		"value": "🏋🏼",
 		"descriptor": "Person Lifting Weights: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_lifting_weights_medium_light_skin_tone:"
+			":person_lifting_weights_medium-light_skin_tone:"
 		]
 	},
 	"1F3CB-1F3FC-200D-2640": {
@@ -4423,7 +4423,7 @@
 		"value": "🏋🏼‍♀",
 		"descriptor": "Woman Lifting Weights: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_lifting_weights_medium_light_skin_tone:"
+			":woman_lifting_weights_medium-light_skin_tone:"
 		]
 	},
 	"1F3CB-1F3FC-200D-2642": {
@@ -4431,7 +4431,7 @@
 		"value": "🏋🏼‍♂",
 		"descriptor": "Man Lifting Weights: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_lifting_weights_medium_light_skin_tone:"
+			":man_lifting_weights_medium-light_skin_tone:"
 		]
 	},
 	"1F3CB-1F3FD": {
@@ -4463,7 +4463,7 @@
 		"value": "🏋🏾",
 		"descriptor": "Person Lifting Weights: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_lifting_weights_medium_dark_skin_tone:"
+			":person_lifting_weights_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CB-1F3FE-200D-2640": {
@@ -4471,7 +4471,7 @@
 		"value": "🏋🏾‍♀",
 		"descriptor": "Woman Lifting Weights: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_lifting_weights_medium_dark_skin_tone:"
+			":woman_lifting_weights_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CB-1F3FE-200D-2642": {
@@ -4479,7 +4479,7 @@
 		"value": "🏋🏾‍♂",
 		"descriptor": "Man Lifting Weights: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_lifting_weights_medium_dark_skin_tone:"
+			":man_lifting_weights_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CB-1F3FF": {
@@ -4559,7 +4559,7 @@
 		"value": "🏌🏼",
 		"descriptor": "Person Golfing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_golfing_medium_light_skin_tone:"
+			":person_golfing_medium-light_skin_tone:"
 		]
 	},
 	"1F3CC-1F3FC-200D-2640": {
@@ -4567,7 +4567,7 @@
 		"value": "🏌🏼‍♀",
 		"descriptor": "Woman Golfing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_golfing_medium_light_skin_tone:"
+			":woman_golfing_medium-light_skin_tone:"
 		]
 	},
 	"1F3CC-1F3FC-200D-2642": {
@@ -4575,7 +4575,7 @@
 		"value": "🏌🏼‍♂",
 		"descriptor": "Man Golfing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_golfing_medium_light_skin_tone:"
+			":man_golfing_medium-light_skin_tone:"
 		]
 	},
 	"1F3CC-1F3FD": {
@@ -4607,7 +4607,7 @@
 		"value": "🏌🏾",
 		"descriptor": "Person Golfing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_golfing_medium_dark_skin_tone:"
+			":person_golfing_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CC-1F3FE-200D-2640": {
@@ -4615,7 +4615,7 @@
 		"value": "🏌🏾‍♀",
 		"descriptor": "Woman Golfing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_golfing_medium_dark_skin_tone:"
+			":woman_golfing_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CC-1F3FE-200D-2642": {
@@ -4623,7 +4623,7 @@
 		"value": "🏌🏾‍♂",
 		"descriptor": "Man Golfing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_golfing_medium_dark_skin_tone:"
+			":man_golfing_medium-dark_skin_tone:"
 		]
 	},
 	"1F3CC-1F3FF": {
@@ -4727,7 +4727,7 @@
 		"value": "🏔",
 		"descriptor": "Snow-Capped Mountain",
 		"shortcodes": [
-			":snow_capped_mountain:"
+			":snow-capped_mountain:"
 		]
 	},
 	"1F3D5": {
@@ -5064,7 +5064,7 @@
 		"value": "🏼",
 		"descriptor": "Medium-Light Skin Tone",
 		"shortcodes": [
-			":medium_light_skin_tone:"
+			":medium-light_skin_tone:"
 		]
 	},
 	"1F3FD": {
@@ -5080,7 +5080,7 @@
 		"value": "🏾",
 		"descriptor": "Medium-Dark Skin Tone",
 		"shortcodes": [
-			":medium_dark_skin_tone:"
+			":medium-dark_skin_tone:"
 		]
 	},
 	"1F3FF": {
@@ -5659,7 +5659,7 @@
 		"value": "👂🏼",
 		"descriptor": "Ear: Medium-Light Skin Tone",
 		"shortcodes": [
-			":ear_medium_light_skin_tone:"
+			":ear_medium-light_skin_tone:"
 		]
 	},
 	"1F442-1F3FD": {
@@ -5675,7 +5675,7 @@
 		"value": "👂🏾",
 		"descriptor": "Ear: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":ear_medium_dark_skin_tone:"
+			":ear_medium-dark_skin_tone:"
 		]
 	},
 	"1F442-1F3FF": {
@@ -5707,7 +5707,7 @@
 		"value": "👃🏼",
 		"descriptor": "Nose: Medium-Light Skin Tone",
 		"shortcodes": [
-			":nose_medium_light_skin_tone:"
+			":nose_medium-light_skin_tone:"
 		]
 	},
 	"1F443-1F3FD": {
@@ -5723,7 +5723,7 @@
 		"value": "👃🏾",
 		"descriptor": "Nose: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":nose_medium_dark_skin_tone:"
+			":nose_medium-dark_skin_tone:"
 		]
 	},
 	"1F443-1F3FF": {
@@ -5771,7 +5771,7 @@
 		"value": "👆🏼",
 		"descriptor": "Backhand Index Pointing Up: Medium-Light Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_up_medium_light_skin_tone:"
+			":backhand_index_pointing_up_medium-light_skin_tone:"
 		]
 	},
 	"1F446-1F3FD": {
@@ -5787,7 +5787,7 @@
 		"value": "👆🏾",
 		"descriptor": "Backhand Index Pointing Up: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_up_medium_dark_skin_tone:"
+			":backhand_index_pointing_up_medium-dark_skin_tone:"
 		]
 	},
 	"1F446-1F3FF": {
@@ -5819,7 +5819,7 @@
 		"value": "👇🏼",
 		"descriptor": "Backhand Index Pointing Down: Medium-Light Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_down_medium_light_skin_tone:"
+			":backhand_index_pointing_down_medium-light_skin_tone:"
 		]
 	},
 	"1F447-1F3FD": {
@@ -5835,7 +5835,7 @@
 		"value": "👇🏾",
 		"descriptor": "Backhand Index Pointing Down: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_down_medium_dark_skin_tone:"
+			":backhand_index_pointing_down_medium-dark_skin_tone:"
 		]
 	},
 	"1F447-1F3FF": {
@@ -5867,7 +5867,7 @@
 		"value": "👈🏼",
 		"descriptor": "Backhand Index Pointing Left: Medium-Light Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_left_medium_light_skin_tone:"
+			":backhand_index_pointing_left_medium-light_skin_tone:"
 		]
 	},
 	"1F448-1F3FD": {
@@ -5883,7 +5883,7 @@
 		"value": "👈🏾",
 		"descriptor": "Backhand Index Pointing Left: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_left_medium_dark_skin_tone:"
+			":backhand_index_pointing_left_medium-dark_skin_tone:"
 		]
 	},
 	"1F448-1F3FF": {
@@ -5915,7 +5915,7 @@
 		"value": "👉🏼",
 		"descriptor": "Backhand Index Pointing Right: Medium-Light Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_right_medium_light_skin_tone:"
+			":backhand_index_pointing_right_medium-light_skin_tone:"
 		]
 	},
 	"1F449-1F3FD": {
@@ -5931,7 +5931,7 @@
 		"value": "👉🏾",
 		"descriptor": "Backhand Index Pointing Right: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":backhand_index_pointing_right_medium_dark_skin_tone:"
+			":backhand_index_pointing_right_medium-dark_skin_tone:"
 		]
 	},
 	"1F449-1F3FF": {
@@ -5964,7 +5964,7 @@
 		"value": "👊🏼",
 		"descriptor": "Oncoming Fist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":oncoming_fist_medium_light_skin_tone:"
+			":oncoming_fist_medium-light_skin_tone:"
 		]
 	},
 	"1F44A-1F3FD": {
@@ -5980,7 +5980,7 @@
 		"value": "👊🏾",
 		"descriptor": "Oncoming Fist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":oncoming_fist_medium_dark_skin_tone:"
+			":oncoming_fist_medium-dark_skin_tone:"
 		]
 	},
 	"1F44A-1F3FF": {
@@ -6012,7 +6012,7 @@
 		"value": "👋🏼",
 		"descriptor": "Waving Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":waving_hand_medium_light_skin_tone:"
+			":waving_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F44B-1F3FD": {
@@ -6028,7 +6028,7 @@
 		"value": "👋🏾",
 		"descriptor": "Waving Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":waving_hand_medium_dark_skin_tone:"
+			":waving_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F44B-1F3FF": {
@@ -6060,7 +6060,7 @@
 		"value": "👌🏼",
 		"descriptor": "OK Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":ok_hand_medium_light_skin_tone:"
+			":ok_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F44C-1F3FD": {
@@ -6076,7 +6076,7 @@
 		"value": "👌🏾",
 		"descriptor": "OK Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":ok_hand_medium_dark_skin_tone:"
+			":ok_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F44C-1F3FF": {
@@ -6109,7 +6109,7 @@
 		"value": "👍🏼",
 		"descriptor": "Thumbs Up: Medium-Light Skin Tone",
 		"shortcodes": [
-			":thumbs_up_medium_light_skin_tone:"
+			":thumbs_up_medium-light_skin_tone:"
 		]
 	},
 	"1F44D-1F3FD": {
@@ -6125,7 +6125,7 @@
 		"value": "👍🏾",
 		"descriptor": "Thumbs Up: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":thumbs_up_medium_dark_skin_tone:"
+			":thumbs_up_medium-dark_skin_tone:"
 		]
 	},
 	"1F44D-1F3FF": {
@@ -6158,7 +6158,7 @@
 		"value": "👎🏼",
 		"descriptor": "Thumbs Down: Medium-Light Skin Tone",
 		"shortcodes": [
-			":thumbs_down_medium_light_skin_tone:"
+			":thumbs_down_medium-light_skin_tone:"
 		]
 	},
 	"1F44E-1F3FD": {
@@ -6174,7 +6174,7 @@
 		"value": "👎🏾",
 		"descriptor": "Thumbs Down: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":thumbs_down_medium_dark_skin_tone:"
+			":thumbs_down_medium-dark_skin_tone:"
 		]
 	},
 	"1F44E-1F3FF": {
@@ -6206,7 +6206,7 @@
 		"value": "👏🏼",
 		"descriptor": "Clapping Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":clapping_hands_medium_light_skin_tone:"
+			":clapping_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F44F-1F3FD": {
@@ -6222,7 +6222,7 @@
 		"value": "👏🏾",
 		"descriptor": "Clapping Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":clapping_hands_medium_dark_skin_tone:"
+			":clapping_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F44F-1F3FF": {
@@ -6254,7 +6254,7 @@
 		"value": "👐🏼",
 		"descriptor": "Open Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":open_hands_medium_light_skin_tone:"
+			":open_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F450-1F3FD": {
@@ -6270,7 +6270,7 @@
 		"value": "👐🏾",
 		"descriptor": "Open Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":open_hands_medium_dark_skin_tone:"
+			":open_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F450-1F3FF": {
@@ -6472,7 +6472,7 @@
 		"value": "👦🏼",
 		"descriptor": "Boy: Medium-Light Skin Tone",
 		"shortcodes": [
-			":boy_medium_light_skin_tone:"
+			":boy_medium-light_skin_tone:"
 		]
 	},
 	"1F466-1F3FD": {
@@ -6488,7 +6488,7 @@
 		"value": "👦🏾",
 		"descriptor": "Boy: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":boy_medium_dark_skin_tone:"
+			":boy_medium-dark_skin_tone:"
 		]
 	},
 	"1F466-1F3FF": {
@@ -6520,7 +6520,7 @@
 		"value": "👧🏼",
 		"descriptor": "Girl: Medium-Light Skin Tone",
 		"shortcodes": [
-			":girl_medium_light_skin_tone:"
+			":girl_medium-light_skin_tone:"
 		]
 	},
 	"1F467-1F3FD": {
@@ -6536,7 +6536,7 @@
 		"value": "👧🏾",
 		"descriptor": "Girl: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":girl_medium_dark_skin_tone:"
+			":girl_medium-dark_skin_tone:"
 		]
 	},
 	"1F467-1F3FF": {
@@ -6672,7 +6672,7 @@
 		"value": "👨🏻‍🤝‍👨🏼",
 		"descriptor": "Men Holding Hands: Light Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_light_skin_tone_medium_light_skin_tone:"
+			":men_holding_hands_light_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD": {
@@ -6688,7 +6688,7 @@
 		"value": "👨🏻‍🤝‍👨🏾",
 		"descriptor": "Men Holding Hands: Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_light_skin_tone_medium_dark_skin_tone:"
+			":men_holding_hands_light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF": {
@@ -6784,7 +6784,7 @@
 		"value": "👨🏼",
 		"descriptor": "Man: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_medium_light_skin_tone:"
+			":man_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F33E": {
@@ -6792,7 +6792,7 @@
 		"value": "👨🏼‍🌾",
 		"descriptor": "Man Farmer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_farmer_medium_light_skin_tone:"
+			":man_farmer_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F373": {
@@ -6800,7 +6800,7 @@
 		"value": "👨🏼‍🍳",
 		"descriptor": "Man Cook: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_cook_medium_light_skin_tone:"
+			":man_cook_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F393": {
@@ -6808,7 +6808,7 @@
 		"value": "👨🏼‍🎓",
 		"descriptor": "Man Student: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_student_medium_light_skin_tone:"
+			":man_student_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F3A4": {
@@ -6816,7 +6816,7 @@
 		"value": "👨🏼‍🎤",
 		"descriptor": "Man Singer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_singer_medium_light_skin_tone:"
+			":man_singer_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F3A8": {
@@ -6824,7 +6824,7 @@
 		"value": "👨🏼‍🎨",
 		"descriptor": "Man Artist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_artist_medium_light_skin_tone:"
+			":man_artist_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F3EB": {
@@ -6832,7 +6832,7 @@
 		"value": "👨🏼‍🏫",
 		"descriptor": "Man Teacher: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_teacher_medium_light_skin_tone:"
+			":man_teacher_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F3ED": {
@@ -6840,7 +6840,7 @@
 		"value": "👨🏼‍🏭",
 		"descriptor": "Man Factory Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_factory_worker_medium_light_skin_tone:"
+			":man_factory_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F4BB": {
@@ -6848,7 +6848,7 @@
 		"value": "👨🏼‍💻",
 		"descriptor": "Man Technologist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_technologist_medium_light_skin_tone:"
+			":man_technologist_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F4BC": {
@@ -6856,7 +6856,7 @@
 		"value": "👨🏼‍💼",
 		"descriptor": "Man Office Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_office_worker_medium_light_skin_tone:"
+			":man_office_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F527": {
@@ -6864,7 +6864,7 @@
 		"value": "👨🏼‍🔧",
 		"descriptor": "Man Mechanic: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_mechanic_medium_light_skin_tone:"
+			":man_mechanic_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F52C": {
@@ -6872,7 +6872,7 @@
 		"value": "👨🏼‍🔬",
 		"descriptor": "Man Scientist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_scientist_medium_light_skin_tone:"
+			":man_scientist_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F680": {
@@ -6880,7 +6880,7 @@
 		"value": "👨🏼‍🚀",
 		"descriptor": "Man Astronaut: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_astronaut_medium_light_skin_tone:"
+			":man_astronaut_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F692": {
@@ -6888,7 +6888,7 @@
 		"value": "👨🏼‍🚒",
 		"descriptor": "Man Firefighter: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_firefighter_medium_light_skin_tone:"
+			":man_firefighter_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB": {
@@ -6896,7 +6896,7 @@
 		"value": "👨🏼‍🤝‍👨🏻",
 		"descriptor": "Men Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_light_skin_tone_light_skin_tone:"
+			":men_holding_hands_medium-light_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD": {
@@ -6904,7 +6904,7 @@
 		"value": "👨🏼‍🤝‍👨🏽",
 		"descriptor": "Men Holding Hands: Medium-Light Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_light_skin_tone_medium_skin_tone:"
+			":men_holding_hands_medium-light_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE": {
@@ -6912,7 +6912,7 @@
 		"value": "👨🏼‍🤝‍👨🏾",
 		"descriptor": "Men Holding Hands: Medium-Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_light_skin_tone_medium_dark_skin_tone:"
+			":men_holding_hands_medium-light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF": {
@@ -6920,7 +6920,7 @@
 		"value": "👨🏼‍🤝‍👨🏿",
 		"descriptor": "Men Holding Hands: Medium-Light Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_light_skin_tone_dark_skin_tone:"
+			":men_holding_hands_medium-light_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F9AF": {
@@ -6928,7 +6928,7 @@
 		"value": "👨🏼‍🦯",
 		"descriptor": "Man with White Cane: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_with_white_cane_medium_light_skin_tone:"
+			":man_with_white_cane_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F9B0": {
@@ -6936,7 +6936,7 @@
 		"value": "👨🏼‍🦰",
 		"descriptor": "Man: Medium-Light Skin Tone, Red Hair",
 		"shortcodes": [
-			":man_medium_light_skin_tone_red_hair:"
+			":man_medium-light_skin_tone_red_hair:"
 		]
 	},
 	"1F468-1F3FC-200D-1F9B1": {
@@ -6944,7 +6944,7 @@
 		"value": "👨🏼‍🦱",
 		"descriptor": "Man: Medium-Light Skin Tone, Curly Hair",
 		"shortcodes": [
-			":man_medium_light_skin_tone_curly_hair:"
+			":man_medium-light_skin_tone_curly_hair:"
 		]
 	},
 	"1F468-1F3FC-200D-1F9B2": {
@@ -6952,7 +6952,7 @@
 		"value": "👨🏼‍🦲",
 		"descriptor": "Man: Medium-Light Skin Tone, Bald",
 		"shortcodes": [
-			":man_medium_light_skin_tone_bald:"
+			":man_medium-light_skin_tone_bald:"
 		]
 	},
 	"1F468-1F3FC-200D-1F9B3": {
@@ -6960,7 +6960,7 @@
 		"value": "👨🏼‍🦳",
 		"descriptor": "Man: Medium-Light Skin Tone, White Hair",
 		"shortcodes": [
-			":man_medium_light_skin_tone_white_hair:"
+			":man_medium-light_skin_tone_white_hair:"
 		]
 	},
 	"1F468-1F3FC-200D-1F9BC": {
@@ -6968,7 +6968,7 @@
 		"value": "👨🏼‍🦼",
 		"descriptor": "Man in Motorized Wheelchair: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_in_motorized_wheelchair_medium_light_skin_tone:"
+			":man_in_motorized_wheelchair_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-1F9BD": {
@@ -6976,7 +6976,7 @@
 		"value": "👨🏼‍🦽",
 		"descriptor": "Man in Manual Wheelchair: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_in_manual_wheelchair_medium_light_skin_tone:"
+			":man_in_manual_wheelchair_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-2695": {
@@ -6984,7 +6984,7 @@
 		"value": "👨🏼‍⚕",
 		"descriptor": "Man Health Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_health_worker_medium_light_skin_tone:"
+			":man_health_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-2696": {
@@ -6992,7 +6992,7 @@
 		"value": "👨🏼‍⚖",
 		"descriptor": "Man Judge: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_judge_medium_light_skin_tone:"
+			":man_judge_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FC-200D-2708": {
@@ -7000,7 +7000,7 @@
 		"value": "👨🏼‍✈",
 		"descriptor": "Man Pilot: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_pilot_medium_light_skin_tone:"
+			":man_pilot_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FD": {
@@ -7128,7 +7128,7 @@
 		"value": "👨🏽‍🤝‍👨🏼",
 		"descriptor": "Men Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+			":men_holding_hands_medium_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE": {
@@ -7136,7 +7136,7 @@
 		"value": "👨🏽‍🤝‍👨🏾",
 		"descriptor": "Men Holding Hands: Medium Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_skin_tone_medium_dark_skin_tone:"
+			":men_holding_hands_medium_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF": {
@@ -7232,7 +7232,7 @@
 		"value": "👨🏾",
 		"descriptor": "Man: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_medium_dark_skin_tone:"
+			":man_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F33E": {
@@ -7240,7 +7240,7 @@
 		"value": "👨🏾‍🌾",
 		"descriptor": "Man Farmer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_farmer_medium_dark_skin_tone:"
+			":man_farmer_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F373": {
@@ -7248,7 +7248,7 @@
 		"value": "👨🏾‍🍳",
 		"descriptor": "Man Cook: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_cook_medium_dark_skin_tone:"
+			":man_cook_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F393": {
@@ -7256,7 +7256,7 @@
 		"value": "👨🏾‍🎓",
 		"descriptor": "Man Student: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_student_medium_dark_skin_tone:"
+			":man_student_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F3A4": {
@@ -7264,7 +7264,7 @@
 		"value": "👨🏾‍🎤",
 		"descriptor": "Man Singer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_singer_medium_dark_skin_tone:"
+			":man_singer_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F3A8": {
@@ -7272,7 +7272,7 @@
 		"value": "👨🏾‍🎨",
 		"descriptor": "Man Artist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_artist_medium_dark_skin_tone:"
+			":man_artist_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F3EB": {
@@ -7280,7 +7280,7 @@
 		"value": "👨🏾‍🏫",
 		"descriptor": "Man Teacher: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_teacher_medium_dark_skin_tone:"
+			":man_teacher_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F3ED": {
@@ -7288,7 +7288,7 @@
 		"value": "👨🏾‍🏭",
 		"descriptor": "Man Factory Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_factory_worker_medium_dark_skin_tone:"
+			":man_factory_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F4BB": {
@@ -7296,7 +7296,7 @@
 		"value": "👨🏾‍💻",
 		"descriptor": "Man Technologist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_technologist_medium_dark_skin_tone:"
+			":man_technologist_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F4BC": {
@@ -7304,7 +7304,7 @@
 		"value": "👨🏾‍💼",
 		"descriptor": "Man Office Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_office_worker_medium_dark_skin_tone:"
+			":man_office_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F527": {
@@ -7312,7 +7312,7 @@
 		"value": "👨🏾‍🔧",
 		"descriptor": "Man Mechanic: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_mechanic_medium_dark_skin_tone:"
+			":man_mechanic_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F52C": {
@@ -7320,7 +7320,7 @@
 		"value": "👨🏾‍🔬",
 		"descriptor": "Man Scientist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_scientist_medium_dark_skin_tone:"
+			":man_scientist_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F680": {
@@ -7328,7 +7328,7 @@
 		"value": "👨🏾‍🚀",
 		"descriptor": "Man Astronaut: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_astronaut_medium_dark_skin_tone:"
+			":man_astronaut_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F692": {
@@ -7336,7 +7336,7 @@
 		"value": "👨🏾‍🚒",
 		"descriptor": "Man Firefighter: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_firefighter_medium_dark_skin_tone:"
+			":man_firefighter_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB": {
@@ -7344,7 +7344,7 @@
 		"value": "👨🏾‍🤝‍👨🏻",
 		"descriptor": "Men Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+			":men_holding_hands_medium-dark_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC": {
@@ -7352,7 +7352,7 @@
 		"value": "👨🏾‍🤝‍👨🏼",
 		"descriptor": "Men Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+			":men_holding_hands_medium-dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD": {
@@ -7360,7 +7360,7 @@
 		"value": "👨🏾‍🤝‍👨🏽",
 		"descriptor": "Men Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+			":men_holding_hands_medium-dark_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF": {
@@ -7368,7 +7368,7 @@
 		"value": "👨🏾‍🤝‍👨🏿",
 		"descriptor": "Men Holding Hands: Medium-Dark Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_dark_skin_tone_dark_skin_tone:"
+			":men_holding_hands_medium-dark_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F9AF": {
@@ -7376,7 +7376,7 @@
 		"value": "👨🏾‍🦯",
 		"descriptor": "Man with White Cane: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_with_white_cane_medium_dark_skin_tone:"
+			":man_with_white_cane_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F9B0": {
@@ -7384,7 +7384,7 @@
 		"value": "👨🏾‍🦰",
 		"descriptor": "Man: Medium-Dark Skin Tone, Red Hair",
 		"shortcodes": [
-			":man_medium_dark_skin_tone_red_hair:"
+			":man_medium-dark_skin_tone_red_hair:"
 		]
 	},
 	"1F468-1F3FE-200D-1F9B1": {
@@ -7392,7 +7392,7 @@
 		"value": "👨🏾‍🦱",
 		"descriptor": "Man: Medium-Dark Skin Tone, Curly Hair",
 		"shortcodes": [
-			":man_medium_dark_skin_tone_curly_hair:"
+			":man_medium-dark_skin_tone_curly_hair:"
 		]
 	},
 	"1F468-1F3FE-200D-1F9B2": {
@@ -7400,7 +7400,7 @@
 		"value": "👨🏾‍🦲",
 		"descriptor": "Man: Medium-Dark Skin Tone, Bald",
 		"shortcodes": [
-			":man_medium_dark_skin_tone_bald:"
+			":man_medium-dark_skin_tone_bald:"
 		]
 	},
 	"1F468-1F3FE-200D-1F9B3": {
@@ -7408,7 +7408,7 @@
 		"value": "👨🏾‍🦳",
 		"descriptor": "Man: Medium-Dark Skin Tone, White Hair",
 		"shortcodes": [
-			":man_medium_dark_skin_tone_white_hair:"
+			":man_medium-dark_skin_tone_white_hair:"
 		]
 	},
 	"1F468-1F3FE-200D-1F9BC": {
@@ -7416,7 +7416,7 @@
 		"value": "👨🏾‍🦼",
 		"descriptor": "Man in Motorized Wheelchair: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_in_motorized_wheelchair_medium_dark_skin_tone:"
+			":man_in_motorized_wheelchair_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-1F9BD": {
@@ -7424,7 +7424,7 @@
 		"value": "👨🏾‍🦽",
 		"descriptor": "Man in Manual Wheelchair: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_in_manual_wheelchair_medium_dark_skin_tone:"
+			":man_in_manual_wheelchair_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-2695": {
@@ -7432,7 +7432,7 @@
 		"value": "👨🏾‍⚕",
 		"descriptor": "Man Health Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_health_worker_medium_dark_skin_tone:"
+			":man_health_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-2696": {
@@ -7440,7 +7440,7 @@
 		"value": "👨🏾‍⚖",
 		"descriptor": "Man Judge: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_judge_medium_dark_skin_tone:"
+			":man_judge_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FE-200D-2708": {
@@ -7448,7 +7448,7 @@
 		"value": "👨🏾‍✈",
 		"descriptor": "Man Pilot: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_pilot_medium_dark_skin_tone:"
+			":man_pilot_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FF": {
@@ -7576,7 +7576,7 @@
 		"value": "👨🏿‍🤝‍👨🏼",
 		"descriptor": "Men Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+			":men_holding_hands_dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD": {
@@ -7592,7 +7592,7 @@
 		"value": "👨🏿‍🤝‍👨🏾",
 		"descriptor": "Men Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+			":men_holding_hands_dark_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F468-1F3FF-200D-1F9AF": {
@@ -8120,7 +8120,7 @@
 		"value": "👩🏻‍🤝‍👨🏼",
 		"descriptor": "Woman and Man Holding Hands: Light Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_light_skin_tone_medium_light_skin_tone:"
+			":woman_and_man_holding_hands_light_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD": {
@@ -8136,7 +8136,7 @@
 		"value": "👩🏻‍🤝‍👨🏾",
 		"descriptor": "Woman and Man Holding Hands: Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_light_skin_tone_medium_dark_skin_tone:"
+			":woman_and_man_holding_hands_light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF": {
@@ -8152,7 +8152,7 @@
 		"value": "👩🏻‍🤝‍👩🏼",
 		"descriptor": "Women Holding Hands: Light Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_light_skin_tone_medium_light_skin_tone:"
+			":women_holding_hands_light_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD": {
@@ -8168,7 +8168,7 @@
 		"value": "👩🏻‍🤝‍👩🏾",
 		"descriptor": "Women Holding Hands: Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_light_skin_tone_medium_dark_skin_tone:"
+			":women_holding_hands_light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF": {
@@ -8264,7 +8264,7 @@
 		"value": "👩🏼",
 		"descriptor": "Woman: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_medium_light_skin_tone:"
+			":woman_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F33E": {
@@ -8272,7 +8272,7 @@
 		"value": "👩🏼‍🌾",
 		"descriptor": "Woman Farmer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_farmer_medium_light_skin_tone:"
+			":woman_farmer_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F373": {
@@ -8280,7 +8280,7 @@
 		"value": "👩🏼‍🍳",
 		"descriptor": "Woman Cook: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_cook_medium_light_skin_tone:"
+			":woman_cook_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F393": {
@@ -8288,7 +8288,7 @@
 		"value": "👩🏼‍🎓",
 		"descriptor": "Woman Student: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_student_medium_light_skin_tone:"
+			":woman_student_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F3A4": {
@@ -8296,7 +8296,7 @@
 		"value": "👩🏼‍🎤",
 		"descriptor": "Woman Singer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_singer_medium_light_skin_tone:"
+			":woman_singer_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F3A8": {
@@ -8304,7 +8304,7 @@
 		"value": "👩🏼‍🎨",
 		"descriptor": "Woman Artist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_artist_medium_light_skin_tone:"
+			":woman_artist_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F3EB": {
@@ -8312,7 +8312,7 @@
 		"value": "👩🏼‍🏫",
 		"descriptor": "Woman Teacher: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_teacher_medium_light_skin_tone:"
+			":woman_teacher_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F3ED": {
@@ -8320,7 +8320,7 @@
 		"value": "👩🏼‍🏭",
 		"descriptor": "Woman Factory Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_factory_worker_medium_light_skin_tone:"
+			":woman_factory_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F4BB": {
@@ -8328,7 +8328,7 @@
 		"value": "👩🏼‍💻",
 		"descriptor": "Woman Technologist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_technologist_medium_light_skin_tone:"
+			":woman_technologist_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F4BC": {
@@ -8336,7 +8336,7 @@
 		"value": "👩🏼‍💼",
 		"descriptor": "Woman Office Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_office_worker_medium_light_skin_tone:"
+			":woman_office_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F527": {
@@ -8344,7 +8344,7 @@
 		"value": "👩🏼‍🔧",
 		"descriptor": "Woman Mechanic: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_mechanic_medium_light_skin_tone:"
+			":woman_mechanic_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F52C": {
@@ -8352,7 +8352,7 @@
 		"value": "👩🏼‍🔬",
 		"descriptor": "Woman Scientist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_scientist_medium_light_skin_tone:"
+			":woman_scientist_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F680": {
@@ -8360,7 +8360,7 @@
 		"value": "👩🏼‍🚀",
 		"descriptor": "Woman Astronaut: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_astronaut_medium_light_skin_tone:"
+			":woman_astronaut_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F692": {
@@ -8368,7 +8368,7 @@
 		"value": "👩🏼‍🚒",
 		"descriptor": "Woman Firefighter: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_firefighter_medium_light_skin_tone:"
+			":woman_firefighter_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB": {
@@ -8376,7 +8376,7 @@
 		"value": "👩🏼‍🤝‍👨🏻",
 		"descriptor": "Woman and Man Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_light_skin_tone_light_skin_tone:"
+			":woman_and_man_holding_hands_medium-light_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD": {
@@ -8384,7 +8384,7 @@
 		"value": "👩🏼‍🤝‍👨🏽",
 		"descriptor": "Woman and Man Holding Hands: Medium-Light Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_light_skin_tone_medium_skin_tone:"
+			":woman_and_man_holding_hands_medium-light_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE": {
@@ -8392,7 +8392,7 @@
 		"value": "👩🏼‍🤝‍👨🏾",
 		"descriptor": "Woman and Man Holding Hands: Medium-Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_light_skin_tone_medium_dark_skin_tone:"
+			":woman_and_man_holding_hands_medium-light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF": {
@@ -8400,7 +8400,7 @@
 		"value": "👩🏼‍🤝‍👨🏿",
 		"descriptor": "Woman and Man Holding Hands: Medium-Light Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_light_skin_tone_dark_skin_tone:"
+			":woman_and_man_holding_hands_medium-light_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB": {
@@ -8408,7 +8408,7 @@
 		"value": "👩🏼‍🤝‍👩🏻",
 		"descriptor": "Women Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_light_skin_tone_light_skin_tone:"
+			":women_holding_hands_medium-light_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD": {
@@ -8416,7 +8416,7 @@
 		"value": "👩🏼‍🤝‍👩🏽",
 		"descriptor": "Women Holding Hands: Medium-Light Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_light_skin_tone_medium_skin_tone:"
+			":women_holding_hands_medium-light_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE": {
@@ -8424,7 +8424,7 @@
 		"value": "👩🏼‍🤝‍👩🏾",
 		"descriptor": "Women Holding Hands: Medium-Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_light_skin_tone_medium_dark_skin_tone:"
+			":women_holding_hands_medium-light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF": {
@@ -8432,7 +8432,7 @@
 		"value": "👩🏼‍🤝‍👩🏿",
 		"descriptor": "Women Holding Hands: Medium-Light Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_light_skin_tone_dark_skin_tone:"
+			":women_holding_hands_medium-light_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F9AF": {
@@ -8440,7 +8440,7 @@
 		"value": "👩🏼‍🦯",
 		"descriptor": "Woman with White Cane: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_with_white_cane_medium_light_skin_tone:"
+			":woman_with_white_cane_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F9B0": {
@@ -8448,7 +8448,7 @@
 		"value": "👩🏼‍🦰",
 		"descriptor": "Woman: Medium-Light Skin Tone, Red Hair",
 		"shortcodes": [
-			":woman_medium_light_skin_tone_red_hair:"
+			":woman_medium-light_skin_tone_red_hair:"
 		]
 	},
 	"1F469-1F3FC-200D-1F9B1": {
@@ -8456,7 +8456,7 @@
 		"value": "👩🏼‍🦱",
 		"descriptor": "Woman: Medium-Light Skin Tone, Curly Hair",
 		"shortcodes": [
-			":woman_medium_light_skin_tone_curly_hair:"
+			":woman_medium-light_skin_tone_curly_hair:"
 		]
 	},
 	"1F469-1F3FC-200D-1F9B2": {
@@ -8464,7 +8464,7 @@
 		"value": "👩🏼‍🦲",
 		"descriptor": "Woman: Medium-Light Skin Tone, Bald",
 		"shortcodes": [
-			":woman_medium_light_skin_tone_bald:"
+			":woman_medium-light_skin_tone_bald:"
 		]
 	},
 	"1F469-1F3FC-200D-1F9B3": {
@@ -8472,7 +8472,7 @@
 		"value": "👩🏼‍🦳",
 		"descriptor": "Woman: Medium-Light Skin Tone, White Hair",
 		"shortcodes": [
-			":woman_medium_light_skin_tone_white_hair:"
+			":woman_medium-light_skin_tone_white_hair:"
 		]
 	},
 	"1F469-1F3FC-200D-1F9BC": {
@@ -8480,7 +8480,7 @@
 		"value": "👩🏼‍🦼",
 		"descriptor": "Woman in Motorized Wheelchair: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_in_motorized_wheelchair_medium_light_skin_tone:"
+			":woman_in_motorized_wheelchair_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-1F9BD": {
@@ -8488,7 +8488,7 @@
 		"value": "👩🏼‍🦽",
 		"descriptor": "Woman in Manual Wheelchair: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_in_manual_wheelchair_medium_light_skin_tone:"
+			":woman_in_manual_wheelchair_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-2695": {
@@ -8496,7 +8496,7 @@
 		"value": "👩🏼‍⚕",
 		"descriptor": "Woman Health Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_health_worker_medium_light_skin_tone:"
+			":woman_health_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-2696": {
@@ -8504,7 +8504,7 @@
 		"value": "👩🏼‍⚖",
 		"descriptor": "Woman Judge: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_judge_medium_light_skin_tone:"
+			":woman_judge_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FC-200D-2708": {
@@ -8512,7 +8512,7 @@
 		"value": "👩🏼‍✈",
 		"descriptor": "Woman Pilot: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_pilot_medium_light_skin_tone:"
+			":woman_pilot_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FD": {
@@ -8640,7 +8640,7 @@
 		"value": "👩🏽‍🤝‍👨🏼",
 		"descriptor": "Woman and Man Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+			":woman_and_man_holding_hands_medium_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE": {
@@ -8648,7 +8648,7 @@
 		"value": "👩🏽‍🤝‍👨🏾",
 		"descriptor": "Woman and Man Holding Hands: Medium Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_skin_tone_medium_dark_skin_tone:"
+			":woman_and_man_holding_hands_medium_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF": {
@@ -8672,7 +8672,7 @@
 		"value": "👩🏽‍🤝‍👩🏼",
 		"descriptor": "Women Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+			":women_holding_hands_medium_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE": {
@@ -8680,7 +8680,7 @@
 		"value": "👩🏽‍🤝‍👩🏾",
 		"descriptor": "Women Holding Hands: Medium Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_skin_tone_medium_dark_skin_tone:"
+			":women_holding_hands_medium_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF": {
@@ -8776,7 +8776,7 @@
 		"value": "👩🏾",
 		"descriptor": "Woman: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_medium_dark_skin_tone:"
+			":woman_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F33E": {
@@ -8784,7 +8784,7 @@
 		"value": "👩🏾‍🌾",
 		"descriptor": "Woman Farmer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_farmer_medium_dark_skin_tone:"
+			":woman_farmer_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F373": {
@@ -8792,7 +8792,7 @@
 		"value": "👩🏾‍🍳",
 		"descriptor": "Woman Cook: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_cook_medium_dark_skin_tone:"
+			":woman_cook_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F393": {
@@ -8800,7 +8800,7 @@
 		"value": "👩🏾‍🎓",
 		"descriptor": "Woman Student: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_student_medium_dark_skin_tone:"
+			":woman_student_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F3A4": {
@@ -8808,7 +8808,7 @@
 		"value": "👩🏾‍🎤",
 		"descriptor": "Woman Singer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_singer_medium_dark_skin_tone:"
+			":woman_singer_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F3A8": {
@@ -8816,7 +8816,7 @@
 		"value": "👩🏾‍🎨",
 		"descriptor": "Woman Artist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_artist_medium_dark_skin_tone:"
+			":woman_artist_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F3EB": {
@@ -8824,7 +8824,7 @@
 		"value": "👩🏾‍🏫",
 		"descriptor": "Woman Teacher: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_teacher_medium_dark_skin_tone:"
+			":woman_teacher_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F3ED": {
@@ -8832,7 +8832,7 @@
 		"value": "👩🏾‍🏭",
 		"descriptor": "Woman Factory Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_factory_worker_medium_dark_skin_tone:"
+			":woman_factory_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F4BB": {
@@ -8840,7 +8840,7 @@
 		"value": "👩🏾‍💻",
 		"descriptor": "Woman Technologist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_technologist_medium_dark_skin_tone:"
+			":woman_technologist_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F4BC": {
@@ -8848,7 +8848,7 @@
 		"value": "👩🏾‍💼",
 		"descriptor": "Woman Office Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_office_worker_medium_dark_skin_tone:"
+			":woman_office_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F527": {
@@ -8856,7 +8856,7 @@
 		"value": "👩🏾‍🔧",
 		"descriptor": "Woman Mechanic: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_mechanic_medium_dark_skin_tone:"
+			":woman_mechanic_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F52C": {
@@ -8864,7 +8864,7 @@
 		"value": "👩🏾‍🔬",
 		"descriptor": "Woman Scientist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_scientist_medium_dark_skin_tone:"
+			":woman_scientist_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F680": {
@@ -8872,7 +8872,7 @@
 		"value": "👩🏾‍🚀",
 		"descriptor": "Woman Astronaut: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_astronaut_medium_dark_skin_tone:"
+			":woman_astronaut_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F692": {
@@ -8880,7 +8880,7 @@
 		"value": "👩🏾‍🚒",
 		"descriptor": "Woman Firefighter: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_firefighter_medium_dark_skin_tone:"
+			":woman_firefighter_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB": {
@@ -8888,7 +8888,7 @@
 		"value": "👩🏾‍🤝‍👨🏻",
 		"descriptor": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+			":woman_and_man_holding_hands_medium-dark_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC": {
@@ -8896,7 +8896,7 @@
 		"value": "👩🏾‍🤝‍👨🏼",
 		"descriptor": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+			":woman_and_man_holding_hands_medium-dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD": {
@@ -8904,7 +8904,7 @@
 		"value": "👩🏾‍🤝‍👨🏽",
 		"descriptor": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+			":woman_and_man_holding_hands_medium-dark_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF": {
@@ -8912,7 +8912,7 @@
 		"value": "👩🏾‍🤝‍👨🏿",
 		"descriptor": "Woman and Man Holding Hands: Medium-Dark Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_dark_skin_tone_dark_skin_tone:"
+			":woman_and_man_holding_hands_medium-dark_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB": {
@@ -8920,7 +8920,7 @@
 		"value": "👩🏾‍🤝‍👩🏻",
 		"descriptor": "Women Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+			":women_holding_hands_medium-dark_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC": {
@@ -8928,7 +8928,7 @@
 		"value": "👩🏾‍🤝‍👩🏼",
 		"descriptor": "Women Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+			":women_holding_hands_medium-dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD": {
@@ -8936,7 +8936,7 @@
 		"value": "👩🏾‍🤝‍👩🏽",
 		"descriptor": "Women Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+			":women_holding_hands_medium-dark_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF": {
@@ -8944,7 +8944,7 @@
 		"value": "👩🏾‍🤝‍👩🏿",
 		"descriptor": "Women Holding Hands: Medium-Dark Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_dark_skin_tone_dark_skin_tone:"
+			":women_holding_hands_medium-dark_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F9AF": {
@@ -8952,7 +8952,7 @@
 		"value": "👩🏾‍🦯",
 		"descriptor": "Woman with White Cane: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_with_white_cane_medium_dark_skin_tone:"
+			":woman_with_white_cane_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F9B0": {
@@ -8960,7 +8960,7 @@
 		"value": "👩🏾‍🦰",
 		"descriptor": "Woman: Medium-Dark Skin Tone, Red Hair",
 		"shortcodes": [
-			":woman_medium_dark_skin_tone_red_hair:"
+			":woman_medium-dark_skin_tone_red_hair:"
 		]
 	},
 	"1F469-1F3FE-200D-1F9B1": {
@@ -8968,7 +8968,7 @@
 		"value": "👩🏾‍🦱",
 		"descriptor": "Woman: Medium-Dark Skin Tone, Curly Hair",
 		"shortcodes": [
-			":woman_medium_dark_skin_tone_curly_hair:"
+			":woman_medium-dark_skin_tone_curly_hair:"
 		]
 	},
 	"1F469-1F3FE-200D-1F9B2": {
@@ -8976,7 +8976,7 @@
 		"value": "👩🏾‍🦲",
 		"descriptor": "Woman: Medium-Dark Skin Tone, Bald",
 		"shortcodes": [
-			":woman_medium_dark_skin_tone_bald:"
+			":woman_medium-dark_skin_tone_bald:"
 		]
 	},
 	"1F469-1F3FE-200D-1F9B3": {
@@ -8984,7 +8984,7 @@
 		"value": "👩🏾‍🦳",
 		"descriptor": "Woman: Medium-Dark Skin Tone, White Hair",
 		"shortcodes": [
-			":woman_medium_dark_skin_tone_white_hair:"
+			":woman_medium-dark_skin_tone_white_hair:"
 		]
 	},
 	"1F469-1F3FE-200D-1F9BC": {
@@ -8992,7 +8992,7 @@
 		"value": "👩🏾‍🦼",
 		"descriptor": "Woman in Motorized Wheelchair: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_in_motorized_wheelchair_medium_dark_skin_tone:"
+			":woman_in_motorized_wheelchair_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-1F9BD": {
@@ -9000,7 +9000,7 @@
 		"value": "👩🏾‍🦽",
 		"descriptor": "Woman in Manual Wheelchair: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_in_manual_wheelchair_medium_dark_skin_tone:"
+			":woman_in_manual_wheelchair_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-2695": {
@@ -9008,7 +9008,7 @@
 		"value": "👩🏾‍⚕",
 		"descriptor": "Woman Health Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_health_worker_medium_dark_skin_tone:"
+			":woman_health_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-2696": {
@@ -9016,7 +9016,7 @@
 		"value": "👩🏾‍⚖",
 		"descriptor": "Woman Judge: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_judge_medium_dark_skin_tone:"
+			":woman_judge_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FE-200D-2708": {
@@ -9024,7 +9024,7 @@
 		"value": "👩🏾‍✈",
 		"descriptor": "Woman Pilot: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_pilot_medium_dark_skin_tone:"
+			":woman_pilot_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FF": {
@@ -9152,7 +9152,7 @@
 		"value": "👩🏿‍🤝‍👨🏼",
 		"descriptor": "Woman and Man Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+			":woman_and_man_holding_hands_dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD": {
@@ -9168,7 +9168,7 @@
 		"value": "👩🏿‍🤝‍👨🏾",
 		"descriptor": "Woman and Man Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+			":woman_and_man_holding_hands_dark_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB": {
@@ -9184,7 +9184,7 @@
 		"value": "👩🏿‍🤝‍👩🏼",
 		"descriptor": "Women Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+			":women_holding_hands_dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD": {
@@ -9200,7 +9200,7 @@
 		"value": "👩🏿‍🤝‍👩🏾",
 		"descriptor": "Women Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+			":women_holding_hands_dark_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F469-1F3FF-200D-1F9AF": {
@@ -9608,7 +9608,7 @@
 		"value": "👫🏼",
 		"descriptor": "Woman and Man Holding Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_light_skin_tone:"
+			":woman_and_man_holding_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F46B-1F3FD": {
@@ -9624,7 +9624,7 @@
 		"value": "👫🏾",
 		"descriptor": "Woman and Man Holding Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_and_man_holding_hands_medium_dark_skin_tone:"
+			":woman_and_man_holding_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F46B-1F3FF": {
@@ -9656,7 +9656,7 @@
 		"value": "👬🏼",
 		"descriptor": "Men Holding Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_light_skin_tone:"
+			":men_holding_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F46C-1F3FD": {
@@ -9672,7 +9672,7 @@
 		"value": "👬🏾",
 		"descriptor": "Men Holding Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":men_holding_hands_medium_dark_skin_tone:"
+			":men_holding_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F46C-1F3FF": {
@@ -9704,7 +9704,7 @@
 		"value": "👭🏼",
 		"descriptor": "Women Holding Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_light_skin_tone:"
+			":women_holding_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F46D-1F3FD": {
@@ -9720,7 +9720,7 @@
 		"value": "👭🏾",
 		"descriptor": "Women Holding Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":women_holding_hands_medium_dark_skin_tone:"
+			":women_holding_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F46D-1F3FF": {
@@ -9768,7 +9768,7 @@
 		"value": "👮🏼",
 		"descriptor": "Police Officer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":police_officer_medium_light_skin_tone:"
+			":police_officer_medium-light_skin_tone:"
 		]
 	},
 	"1F46E-1F3FC-200D-2640": {
@@ -9776,7 +9776,7 @@
 		"value": "👮🏼‍♀",
 		"descriptor": "Woman Police Officer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_police_officer_medium_light_skin_tone:"
+			":woman_police_officer_medium-light_skin_tone:"
 		]
 	},
 	"1F46E-1F3FC-200D-2642": {
@@ -9784,7 +9784,7 @@
 		"value": "👮🏼‍♂",
 		"descriptor": "Man Police Officer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_police_officer_medium_light_skin_tone:"
+			":man_police_officer_medium-light_skin_tone:"
 		]
 	},
 	"1F46E-1F3FD": {
@@ -9816,7 +9816,7 @@
 		"value": "👮🏾",
 		"descriptor": "Police Officer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":police_officer_medium_dark_skin_tone:"
+			":police_officer_medium-dark_skin_tone:"
 		]
 	},
 	"1F46E-1F3FE-200D-2640": {
@@ -9824,7 +9824,7 @@
 		"value": "👮🏾‍♀",
 		"descriptor": "Woman Police Officer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_police_officer_medium_dark_skin_tone:"
+			":woman_police_officer_medium-dark_skin_tone:"
 		]
 	},
 	"1F46E-1F3FE-200D-2642": {
@@ -9832,7 +9832,7 @@
 		"value": "👮🏾‍♂",
 		"descriptor": "Man Police Officer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_police_officer_medium_dark_skin_tone:"
+			":man_police_officer_medium-dark_skin_tone:"
 		]
 	},
 	"1F46E-1F3FF": {
@@ -9920,7 +9920,7 @@
 		"value": "👰🏼",
 		"descriptor": "Person With Veil: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_with_veil_medium_light_skin_tone:"
+			":person_with_veil_medium-light_skin_tone:"
 		]
 	},
 	"1F470-1F3FD": {
@@ -9936,7 +9936,7 @@
 		"value": "👰🏾",
 		"descriptor": "Person With Veil: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_with_veil_medium_dark_skin_tone:"
+			":person_with_veil_medium-dark_skin_tone:"
 		]
 	},
 	"1F470-1F3FF": {
@@ -9984,7 +9984,7 @@
 		"value": "👱🏼",
 		"descriptor": "Person: Medium-Light Skin Tone, Blond Hair",
 		"shortcodes": [
-			":person_medium_light_skin_tone_blond_hair:"
+			":person_medium-light_skin_tone_blond_hair:"
 		]
 	},
 	"1F471-1F3FC-200D-2640": {
@@ -9992,7 +9992,7 @@
 		"value": "👱🏼‍♀",
 		"descriptor": "Woman: Medium-Light Skin Tone, Blond Hair",
 		"shortcodes": [
-			":woman_medium_light_skin_tone_blond_hair:"
+			":woman_medium-light_skin_tone_blond_hair:"
 		]
 	},
 	"1F471-1F3FC-200D-2642": {
@@ -10000,7 +10000,7 @@
 		"value": "👱🏼‍♂",
 		"descriptor": "Man: Medium-Light Skin Tone, Blond Hair",
 		"shortcodes": [
-			":man_medium_light_skin_tone_blond_hair:"
+			":man_medium-light_skin_tone_blond_hair:"
 		]
 	},
 	"1F471-1F3FD": {
@@ -10032,7 +10032,7 @@
 		"value": "👱🏾",
 		"descriptor": "Person: Medium-Dark Skin Tone, Blond Hair",
 		"shortcodes": [
-			":person_medium_dark_skin_tone_blond_hair:"
+			":person_medium-dark_skin_tone_blond_hair:"
 		]
 	},
 	"1F471-1F3FE-200D-2640": {
@@ -10040,7 +10040,7 @@
 		"value": "👱🏾‍♀",
 		"descriptor": "Woman: Medium-Dark Skin Tone, Blond Hair",
 		"shortcodes": [
-			":woman_medium_dark_skin_tone_blond_hair:"
+			":woman_medium-dark_skin_tone_blond_hair:"
 		]
 	},
 	"1F471-1F3FE-200D-2642": {
@@ -10048,7 +10048,7 @@
 		"value": "👱🏾‍♂",
 		"descriptor": "Man: Medium-Dark Skin Tone, Blond Hair",
 		"shortcodes": [
-			":man_medium_dark_skin_tone_blond_hair:"
+			":man_medium-dark_skin_tone_blond_hair:"
 		]
 	},
 	"1F471-1F3FF": {
@@ -10112,7 +10112,7 @@
 		"value": "👲🏼",
 		"descriptor": "Person With Skullcap: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_with_skullcap_medium_light_skin_tone:"
+			":person_with_skullcap_medium-light_skin_tone:"
 		]
 	},
 	"1F472-1F3FD": {
@@ -10128,7 +10128,7 @@
 		"value": "👲🏾",
 		"descriptor": "Person With Skullcap: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_with_skullcap_medium_dark_skin_tone:"
+			":person_with_skullcap_medium-dark_skin_tone:"
 		]
 	},
 	"1F472-1F3FF": {
@@ -10176,7 +10176,7 @@
 		"value": "👳🏼",
 		"descriptor": "Person Wearing Turban: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_wearing_turban_medium_light_skin_tone:"
+			":person_wearing_turban_medium-light_skin_tone:"
 		]
 	},
 	"1F473-1F3FC-200D-2640": {
@@ -10184,7 +10184,7 @@
 		"value": "👳🏼‍♀",
 		"descriptor": "Woman Wearing Turban: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_wearing_turban_medium_light_skin_tone:"
+			":woman_wearing_turban_medium-light_skin_tone:"
 		]
 	},
 	"1F473-1F3FC-200D-2642": {
@@ -10192,7 +10192,7 @@
 		"value": "👳🏼‍♂",
 		"descriptor": "Man Wearing Turban: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_wearing_turban_medium_light_skin_tone:"
+			":man_wearing_turban_medium-light_skin_tone:"
 		]
 	},
 	"1F473-1F3FD": {
@@ -10224,7 +10224,7 @@
 		"value": "👳🏾",
 		"descriptor": "Person Wearing Turban: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_wearing_turban_medium_dark_skin_tone:"
+			":person_wearing_turban_medium-dark_skin_tone:"
 		]
 	},
 	"1F473-1F3FE-200D-2640": {
@@ -10232,7 +10232,7 @@
 		"value": "👳🏾‍♀",
 		"descriptor": "Woman Wearing Turban: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_wearing_turban_medium_dark_skin_tone:"
+			":woman_wearing_turban_medium-dark_skin_tone:"
 		]
 	},
 	"1F473-1F3FE-200D-2642": {
@@ -10240,7 +10240,7 @@
 		"value": "👳🏾‍♂",
 		"descriptor": "Man Wearing Turban: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_wearing_turban_medium_dark_skin_tone:"
+			":man_wearing_turban_medium-dark_skin_tone:"
 		]
 	},
 	"1F473-1F3FF": {
@@ -10304,7 +10304,7 @@
 		"value": "👴🏼",
 		"descriptor": "Old Man: Medium-Light Skin Tone",
 		"shortcodes": [
-			":old_man_medium_light_skin_tone:"
+			":old_man_medium-light_skin_tone:"
 		]
 	},
 	"1F474-1F3FD": {
@@ -10320,7 +10320,7 @@
 		"value": "👴🏾",
 		"descriptor": "Old Man: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":old_man_medium_dark_skin_tone:"
+			":old_man_medium-dark_skin_tone:"
 		]
 	},
 	"1F474-1F3FF": {
@@ -10352,7 +10352,7 @@
 		"value": "👵🏼",
 		"descriptor": "Old Woman: Medium-Light Skin Tone",
 		"shortcodes": [
-			":old_woman_medium_light_skin_tone:"
+			":old_woman_medium-light_skin_tone:"
 		]
 	},
 	"1F475-1F3FD": {
@@ -10368,7 +10368,7 @@
 		"value": "👵🏾",
 		"descriptor": "Old Woman: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":old_woman_medium_dark_skin_tone:"
+			":old_woman_medium-dark_skin_tone:"
 		]
 	},
 	"1F475-1F3FF": {
@@ -10400,7 +10400,7 @@
 		"value": "👶🏼",
 		"descriptor": "Baby: Medium-Light Skin Tone",
 		"shortcodes": [
-			":baby_medium_light_skin_tone:"
+			":baby_medium-light_skin_tone:"
 		]
 	},
 	"1F476-1F3FD": {
@@ -10416,7 +10416,7 @@
 		"value": "👶🏾",
 		"descriptor": "Baby: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":baby_medium_dark_skin_tone:"
+			":baby_medium-dark_skin_tone:"
 		]
 	},
 	"1F476-1F3FF": {
@@ -10464,7 +10464,7 @@
 		"value": "👷🏼",
 		"descriptor": "Construction Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":construction_worker_medium_light_skin_tone:"
+			":construction_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F477-1F3FC-200D-2640": {
@@ -10472,7 +10472,7 @@
 		"value": "👷🏼‍♀",
 		"descriptor": "Woman Construction Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_construction_worker_medium_light_skin_tone:"
+			":woman_construction_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F477-1F3FC-200D-2642": {
@@ -10480,7 +10480,7 @@
 		"value": "👷🏼‍♂",
 		"descriptor": "Man Construction Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_construction_worker_medium_light_skin_tone:"
+			":man_construction_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F477-1F3FD": {
@@ -10512,7 +10512,7 @@
 		"value": "👷🏾",
 		"descriptor": "Construction Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":construction_worker_medium_dark_skin_tone:"
+			":construction_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F477-1F3FE-200D-2640": {
@@ -10520,7 +10520,7 @@
 		"value": "👷🏾‍♀",
 		"descriptor": "Woman Construction Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_construction_worker_medium_dark_skin_tone:"
+			":woman_construction_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F477-1F3FE-200D-2642": {
@@ -10528,7 +10528,7 @@
 		"value": "👷🏾‍♂",
 		"descriptor": "Man Construction Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_construction_worker_medium_dark_skin_tone:"
+			":man_construction_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F477-1F3FF": {
@@ -10592,7 +10592,7 @@
 		"value": "👸🏼",
 		"descriptor": "Princess: Medium-Light Skin Tone",
 		"shortcodes": [
-			":princess_medium_light_skin_tone:"
+			":princess_medium-light_skin_tone:"
 		]
 	},
 	"1F478-1F3FD": {
@@ -10608,7 +10608,7 @@
 		"value": "👸🏾",
 		"descriptor": "Princess: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":princess_medium_dark_skin_tone:"
+			":princess_medium-dark_skin_tone:"
 		]
 	},
 	"1F478-1F3FF": {
@@ -10664,7 +10664,7 @@
 		"value": "👼🏼",
 		"descriptor": "Baby Angel: Medium-Light Skin Tone",
 		"shortcodes": [
-			":baby_angel_medium_light_skin_tone:"
+			":baby_angel_medium-light_skin_tone:"
 		]
 	},
 	"1F47C-1F3FD": {
@@ -10680,7 +10680,7 @@
 		"value": "👼🏾",
 		"descriptor": "Baby Angel: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":baby_angel_medium_dark_skin_tone:"
+			":baby_angel_medium-dark_skin_tone:"
 		]
 	},
 	"1F47C-1F3FF": {
@@ -10760,7 +10760,7 @@
 		"value": "💁🏼",
 		"descriptor": "Person Tipping Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_tipping_hand_medium_light_skin_tone:"
+			":person_tipping_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F481-1F3FC-200D-2640": {
@@ -10768,7 +10768,7 @@
 		"value": "💁🏼‍♀",
 		"descriptor": "Woman Tipping Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_tipping_hand_medium_light_skin_tone:"
+			":woman_tipping_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F481-1F3FC-200D-2642": {
@@ -10776,7 +10776,7 @@
 		"value": "💁🏼‍♂",
 		"descriptor": "Man Tipping Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_tipping_hand_medium_light_skin_tone:"
+			":man_tipping_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F481-1F3FD": {
@@ -10808,7 +10808,7 @@
 		"value": "💁🏾",
 		"descriptor": "Person Tipping Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_tipping_hand_medium_dark_skin_tone:"
+			":person_tipping_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F481-1F3FE-200D-2640": {
@@ -10816,7 +10816,7 @@
 		"value": "💁🏾‍♀",
 		"descriptor": "Woman Tipping Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_tipping_hand_medium_dark_skin_tone:"
+			":woman_tipping_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F481-1F3FE-200D-2642": {
@@ -10824,7 +10824,7 @@
 		"value": "💁🏾‍♂",
 		"descriptor": "Man Tipping Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_tipping_hand_medium_dark_skin_tone:"
+			":man_tipping_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F481-1F3FF": {
@@ -10904,7 +10904,7 @@
 		"value": "💂🏼",
 		"descriptor": "Guard: Medium-Light Skin Tone",
 		"shortcodes": [
-			":guard_medium_light_skin_tone:"
+			":guard_medium-light_skin_tone:"
 		]
 	},
 	"1F482-1F3FC-200D-2640": {
@@ -10912,7 +10912,7 @@
 		"value": "💂🏼‍♀",
 		"descriptor": "Woman Guard: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_guard_medium_light_skin_tone:"
+			":woman_guard_medium-light_skin_tone:"
 		]
 	},
 	"1F482-1F3FC-200D-2642": {
@@ -10920,7 +10920,7 @@
 		"value": "💂🏼‍♂",
 		"descriptor": "Man Guard: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_guard_medium_light_skin_tone:"
+			":man_guard_medium-light_skin_tone:"
 		]
 	},
 	"1F482-1F3FD": {
@@ -10952,7 +10952,7 @@
 		"value": "💂🏾",
 		"descriptor": "Guard: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":guard_medium_dark_skin_tone:"
+			":guard_medium-dark_skin_tone:"
 		]
 	},
 	"1F482-1F3FE-200D-2640": {
@@ -10960,7 +10960,7 @@
 		"value": "💂🏾‍♀",
 		"descriptor": "Woman Guard: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_guard_medium_dark_skin_tone:"
+			":woman_guard_medium-dark_skin_tone:"
 		]
 	},
 	"1F482-1F3FE-200D-2642": {
@@ -10968,7 +10968,7 @@
 		"value": "💂🏾‍♂",
 		"descriptor": "Man Guard: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_guard_medium_dark_skin_tone:"
+			":man_guard_medium-dark_skin_tone:"
 		]
 	},
 	"1F482-1F3FF": {
@@ -11032,7 +11032,7 @@
 		"value": "💃🏼",
 		"descriptor": "Woman Dancing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_dancing_medium_light_skin_tone:"
+			":woman_dancing_medium-light_skin_tone:"
 		]
 	},
 	"1F483-1F3FD": {
@@ -11048,7 +11048,7 @@
 		"value": "💃🏾",
 		"descriptor": "Woman Dancing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_dancing_medium_dark_skin_tone:"
+			":woman_dancing_medium-dark_skin_tone:"
 		]
 	},
 	"1F483-1F3FF": {
@@ -11088,7 +11088,7 @@
 		"value": "💅🏼",
 		"descriptor": "Nail Polish: Medium-Light Skin Tone",
 		"shortcodes": [
-			":nail_polish_medium_light_skin_tone:"
+			":nail_polish_medium-light_skin_tone:"
 		]
 	},
 	"1F485-1F3FD": {
@@ -11104,7 +11104,7 @@
 		"value": "💅🏾",
 		"descriptor": "Nail Polish: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":nail_polish_medium_dark_skin_tone:"
+			":nail_polish_medium-dark_skin_tone:"
 		]
 	},
 	"1F485-1F3FF": {
@@ -11152,7 +11152,7 @@
 		"value": "💆🏼",
 		"descriptor": "Person Getting Massage: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_getting_massage_medium_light_skin_tone:"
+			":person_getting_massage_medium-light_skin_tone:"
 		]
 	},
 	"1F486-1F3FC-200D-2640": {
@@ -11160,7 +11160,7 @@
 		"value": "💆🏼‍♀",
 		"descriptor": "Woman Getting Massage: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_getting_massage_medium_light_skin_tone:"
+			":woman_getting_massage_medium-light_skin_tone:"
 		]
 	},
 	"1F486-1F3FC-200D-2642": {
@@ -11168,7 +11168,7 @@
 		"value": "💆🏼‍♂",
 		"descriptor": "Man Getting Massage: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_getting_massage_medium_light_skin_tone:"
+			":man_getting_massage_medium-light_skin_tone:"
 		]
 	},
 	"1F486-1F3FD": {
@@ -11200,7 +11200,7 @@
 		"value": "💆🏾",
 		"descriptor": "Person Getting Massage: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_getting_massage_medium_dark_skin_tone:"
+			":person_getting_massage_medium-dark_skin_tone:"
 		]
 	},
 	"1F486-1F3FE-200D-2640": {
@@ -11208,7 +11208,7 @@
 		"value": "💆🏾‍♀",
 		"descriptor": "Woman Getting Massage: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_getting_massage_medium_dark_skin_tone:"
+			":woman_getting_massage_medium-dark_skin_tone:"
 		]
 	},
 	"1F486-1F3FE-200D-2642": {
@@ -11216,7 +11216,7 @@
 		"value": "💆🏾‍♂",
 		"descriptor": "Man Getting Massage: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_getting_massage_medium_dark_skin_tone:"
+			":man_getting_massage_medium-dark_skin_tone:"
 		]
 	},
 	"1F486-1F3FF": {
@@ -11296,7 +11296,7 @@
 		"value": "💇🏼",
 		"descriptor": "Person Getting Haircut: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_getting_haircut_medium_light_skin_tone:"
+			":person_getting_haircut_medium-light_skin_tone:"
 		]
 	},
 	"1F487-1F3FC-200D-2640": {
@@ -11304,7 +11304,7 @@
 		"value": "💇🏼‍♀",
 		"descriptor": "Woman Getting Haircut: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_getting_haircut_medium_light_skin_tone:"
+			":woman_getting_haircut_medium-light_skin_tone:"
 		]
 	},
 	"1F487-1F3FC-200D-2642": {
@@ -11312,7 +11312,7 @@
 		"value": "💇🏼‍♂",
 		"descriptor": "Man Getting Haircut: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_getting_haircut_medium_light_skin_tone:"
+			":man_getting_haircut_medium-light_skin_tone:"
 		]
 	},
 	"1F487-1F3FD": {
@@ -11344,7 +11344,7 @@
 		"value": "💇🏾",
 		"descriptor": "Person Getting Haircut: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_getting_haircut_medium_dark_skin_tone:"
+			":person_getting_haircut_medium-dark_skin_tone:"
 		]
 	},
 	"1F487-1F3FE-200D-2640": {
@@ -11352,7 +11352,7 @@
 		"value": "💇🏾‍♀",
 		"descriptor": "Woman Getting Haircut: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_getting_haircut_medium_dark_skin_tone:"
+			":woman_getting_haircut_medium-dark_skin_tone:"
 		]
 	},
 	"1F487-1F3FE-200D-2642": {
@@ -11360,7 +11360,7 @@
 		"value": "💇🏾‍♂",
 		"descriptor": "Man Getting Haircut: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_getting_haircut_medium_dark_skin_tone:"
+			":man_getting_haircut_medium-dark_skin_tone:"
 		]
 	},
 	"1F487-1F3FF": {
@@ -11699,7 +11699,7 @@
 		"value": "💪🏼",
 		"descriptor": "Flexed Biceps: Medium-Light Skin Tone",
 		"shortcodes": [
-			":flexed_biceps_medium_light_skin_tone:"
+			":flexed_biceps_medium-light_skin_tone:"
 		]
 	},
 	"1F4AA-1F3FD": {
@@ -11715,7 +11715,7 @@
 		"value": "💪🏾",
 		"descriptor": "Flexed Biceps: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":flexed_biceps_medium_dark_skin_tone:"
+			":flexed_biceps_medium-dark_skin_tone:"
 		]
 	},
 	"1F4AA-1F3FF": {
@@ -13182,7 +13182,7 @@
 		"value": "🕴🏼",
 		"descriptor": "Person in Suit Levitating: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_in_suit_levitating_medium_light_skin_tone:"
+			":person_in_suit_levitating_medium-light_skin_tone:"
 		]
 	},
 	"1F574-1F3FD": {
@@ -13198,7 +13198,7 @@
 		"value": "🕴🏾",
 		"descriptor": "Person in Suit Levitating: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_in_suit_levitating_medium_dark_skin_tone:"
+			":person_in_suit_levitating_medium-dark_skin_tone:"
 		]
 	},
 	"1F574-1F3FF": {
@@ -13246,7 +13246,7 @@
 		"value": "🕵🏼",
 		"descriptor": "Detective: Medium-Light Skin Tone",
 		"shortcodes": [
-			":detective_medium_light_skin_tone:"
+			":detective_medium-light_skin_tone:"
 		]
 	},
 	"1F575-1F3FC-200D-2640": {
@@ -13254,7 +13254,7 @@
 		"value": "🕵🏼‍♀",
 		"descriptor": "Woman Detective: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_detective_medium_light_skin_tone:"
+			":woman_detective_medium-light_skin_tone:"
 		]
 	},
 	"1F575-1F3FC-200D-2642": {
@@ -13262,7 +13262,7 @@
 		"value": "🕵🏼‍♂",
 		"descriptor": "Man Detective: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_detective_medium_light_skin_tone:"
+			":man_detective_medium-light_skin_tone:"
 		]
 	},
 	"1F575-1F3FD": {
@@ -13294,7 +13294,7 @@
 		"value": "🕵🏾",
 		"descriptor": "Detective: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":detective_medium_dark_skin_tone:"
+			":detective_medium-dark_skin_tone:"
 		]
 	},
 	"1F575-1F3FE-200D-2640": {
@@ -13302,7 +13302,7 @@
 		"value": "🕵🏾‍♀",
 		"descriptor": "Woman Detective: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_detective_medium_dark_skin_tone:"
+			":woman_detective_medium-dark_skin_tone:"
 		]
 	},
 	"1F575-1F3FE-200D-2642": {
@@ -13310,7 +13310,7 @@
 		"value": "🕵🏾‍♂",
 		"descriptor": "Man Detective: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_detective_medium_dark_skin_tone:"
+			":man_detective_medium-dark_skin_tone:"
 		]
 	},
 	"1F575-1F3FF": {
@@ -13406,7 +13406,7 @@
 		"value": "🕺🏼",
 		"descriptor": "Man Dancing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_dancing_medium_light_skin_tone:"
+			":man_dancing_medium-light_skin_tone:"
 		]
 	},
 	"1F57A-1F3FD": {
@@ -13422,7 +13422,7 @@
 		"value": "🕺🏾",
 		"descriptor": "Man Dancing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_dancing_medium_dark_skin_tone:"
+			":man_dancing_medium-dark_skin_tone:"
 		]
 	},
 	"1F57A-1F3FF": {
@@ -13494,7 +13494,7 @@
 		"value": "🖐🏼",
 		"descriptor": "Hand with Fingers Splayed: Medium-Light Skin Tone",
 		"shortcodes": [
-			":hand_with_fingers_splayed_medium_light_skin_tone:"
+			":hand_with_fingers_splayed_medium-light_skin_tone:"
 		]
 	},
 	"1F590-1F3FD": {
@@ -13510,7 +13510,7 @@
 		"value": "🖐🏾",
 		"descriptor": "Hand with Fingers Splayed: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":hand_with_fingers_splayed_medium_dark_skin_tone:"
+			":hand_with_fingers_splayed_medium-dark_skin_tone:"
 		]
 	},
 	"1F590-1F3FF": {
@@ -13542,7 +13542,7 @@
 		"value": "🖕🏼",
 		"descriptor": "Middle Finger: Medium-Light Skin Tone",
 		"shortcodes": [
-			":middle_finger_medium_light_skin_tone:"
+			":middle_finger_medium-light_skin_tone:"
 		]
 	},
 	"1F595-1F3FD": {
@@ -13558,7 +13558,7 @@
 		"value": "🖕🏾",
 		"descriptor": "Middle Finger: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":middle_finger_medium_dark_skin_tone:"
+			":middle_finger_medium-dark_skin_tone:"
 		]
 	},
 	"1F595-1F3FF": {
@@ -13590,7 +13590,7 @@
 		"value": "🖖🏼",
 		"descriptor": "Vulcan Salute: Medium-Light Skin Tone",
 		"shortcodes": [
-			":vulcan_salute_medium_light_skin_tone:"
+			":vulcan_salute_medium-light_skin_tone:"
 		]
 	},
 	"1F596-1F3FD": {
@@ -13606,7 +13606,7 @@
 		"value": "🖖🏾",
 		"descriptor": "Vulcan Salute: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":vulcan_salute_medium_dark_skin_tone:"
+			":vulcan_salute_medium-dark_skin_tone:"
 		]
 	},
 	"1F596-1F3FF": {
@@ -13734,7 +13734,7 @@
 		"value": "🗞",
 		"descriptor": "Rolled-Up Newspaper",
 		"shortcodes": [
-			":rolled_up_newspaper:"
+			":rolled-up_newspaper:"
 		]
 	},
 	"1F5E1": {
@@ -14367,7 +14367,7 @@
 		"value": "🙃",
 		"descriptor": "Upside-Down Face",
 		"shortcodes": [
-			":upside_down_face:"
+			":upside-down_face:"
 		]
 	},
 	"1F644": {
@@ -14415,7 +14415,7 @@
 		"value": "🙅🏼",
 		"descriptor": "Person Gesturing No: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_gesturing_no_medium_light_skin_tone:"
+			":person_gesturing_no_medium-light_skin_tone:"
 		]
 	},
 	"1F645-1F3FC-200D-2640": {
@@ -14423,7 +14423,7 @@
 		"value": "🙅🏼‍♀",
 		"descriptor": "Woman Gesturing No: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_gesturing_no_medium_light_skin_tone:"
+			":woman_gesturing_no_medium-light_skin_tone:"
 		]
 	},
 	"1F645-1F3FC-200D-2642": {
@@ -14431,7 +14431,7 @@
 		"value": "🙅🏼‍♂",
 		"descriptor": "Man Gesturing No: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_gesturing_no_medium_light_skin_tone:"
+			":man_gesturing_no_medium-light_skin_tone:"
 		]
 	},
 	"1F645-1F3FD": {
@@ -14463,7 +14463,7 @@
 		"value": "🙅🏾",
 		"descriptor": "Person Gesturing No: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_gesturing_no_medium_dark_skin_tone:"
+			":person_gesturing_no_medium-dark_skin_tone:"
 		]
 	},
 	"1F645-1F3FE-200D-2640": {
@@ -14471,7 +14471,7 @@
 		"value": "🙅🏾‍♀",
 		"descriptor": "Woman Gesturing No: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_gesturing_no_medium_dark_skin_tone:"
+			":woman_gesturing_no_medium-dark_skin_tone:"
 		]
 	},
 	"1F645-1F3FE-200D-2642": {
@@ -14479,7 +14479,7 @@
 		"value": "🙅🏾‍♂",
 		"descriptor": "Man Gesturing No: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_gesturing_no_medium_dark_skin_tone:"
+			":man_gesturing_no_medium-dark_skin_tone:"
 		]
 	},
 	"1F645-1F3FF": {
@@ -14559,7 +14559,7 @@
 		"value": "🙆🏼",
 		"descriptor": "Person Gesturing OK: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_gesturing_ok_medium_light_skin_tone:"
+			":person_gesturing_ok_medium-light_skin_tone:"
 		]
 	},
 	"1F646-1F3FC-200D-2640": {
@@ -14567,7 +14567,7 @@
 		"value": "🙆🏼‍♀",
 		"descriptor": "Woman Gesturing OK: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_gesturing_ok_medium_light_skin_tone:"
+			":woman_gesturing_ok_medium-light_skin_tone:"
 		]
 	},
 	"1F646-1F3FC-200D-2642": {
@@ -14575,7 +14575,7 @@
 		"value": "🙆🏼‍♂",
 		"descriptor": "Man Gesturing OK: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_gesturing_ok_medium_light_skin_tone:"
+			":man_gesturing_ok_medium-light_skin_tone:"
 		]
 	},
 	"1F646-1F3FD": {
@@ -14607,7 +14607,7 @@
 		"value": "🙆🏾",
 		"descriptor": "Person Gesturing OK: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_gesturing_ok_medium_dark_skin_tone:"
+			":person_gesturing_ok_medium-dark_skin_tone:"
 		]
 	},
 	"1F646-1F3FE-200D-2640": {
@@ -14615,7 +14615,7 @@
 		"value": "🙆🏾‍♀",
 		"descriptor": "Woman Gesturing OK: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_gesturing_ok_medium_dark_skin_tone:"
+			":woman_gesturing_ok_medium-dark_skin_tone:"
 		]
 	},
 	"1F646-1F3FE-200D-2642": {
@@ -14623,7 +14623,7 @@
 		"value": "🙆🏾‍♂",
 		"descriptor": "Man Gesturing OK: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_gesturing_ok_medium_dark_skin_tone:"
+			":man_gesturing_ok_medium-dark_skin_tone:"
 		]
 	},
 	"1F646-1F3FF": {
@@ -14703,7 +14703,7 @@
 		"value": "🙇🏼",
 		"descriptor": "Person Bowing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_bowing_medium_light_skin_tone:"
+			":person_bowing_medium-light_skin_tone:"
 		]
 	},
 	"1F647-1F3FC-200D-2640": {
@@ -14711,7 +14711,7 @@
 		"value": "🙇🏼‍♀",
 		"descriptor": "Woman Bowing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_bowing_medium_light_skin_tone:"
+			":woman_bowing_medium-light_skin_tone:"
 		]
 	},
 	"1F647-1F3FC-200D-2642": {
@@ -14719,7 +14719,7 @@
 		"value": "🙇🏼‍♂",
 		"descriptor": "Man Bowing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_bowing_medium_light_skin_tone:"
+			":man_bowing_medium-light_skin_tone:"
 		]
 	},
 	"1F647-1F3FD": {
@@ -14751,7 +14751,7 @@
 		"value": "🙇🏾",
 		"descriptor": "Person Bowing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_bowing_medium_dark_skin_tone:"
+			":person_bowing_medium-dark_skin_tone:"
 		]
 	},
 	"1F647-1F3FE-200D-2640": {
@@ -14759,7 +14759,7 @@
 		"value": "🙇🏾‍♀",
 		"descriptor": "Woman Bowing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_bowing_medium_dark_skin_tone:"
+			":woman_bowing_medium-dark_skin_tone:"
 		]
 	},
 	"1F647-1F3FE-200D-2642": {
@@ -14767,7 +14767,7 @@
 		"value": "🙇🏾‍♂",
 		"descriptor": "Man Bowing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_bowing_medium_dark_skin_tone:"
+			":man_bowing_medium-dark_skin_tone:"
 		]
 	},
 	"1F647-1F3FF": {
@@ -14871,7 +14871,7 @@
 		"value": "🙋🏼",
 		"descriptor": "Person Raising Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_raising_hand_medium_light_skin_tone:"
+			":person_raising_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F64B-1F3FC-200D-2640": {
@@ -14879,7 +14879,7 @@
 		"value": "🙋🏼‍♀",
 		"descriptor": "Woman Raising Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_raising_hand_medium_light_skin_tone:"
+			":woman_raising_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F64B-1F3FC-200D-2642": {
@@ -14887,7 +14887,7 @@
 		"value": "🙋🏼‍♂",
 		"descriptor": "Man Raising Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_raising_hand_medium_light_skin_tone:"
+			":man_raising_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F64B-1F3FD": {
@@ -14919,7 +14919,7 @@
 		"value": "🙋🏾",
 		"descriptor": "Person Raising Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_raising_hand_medium_dark_skin_tone:"
+			":person_raising_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F64B-1F3FE-200D-2640": {
@@ -14927,7 +14927,7 @@
 		"value": "🙋🏾‍♀",
 		"descriptor": "Woman Raising Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_raising_hand_medium_dark_skin_tone:"
+			":woman_raising_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F64B-1F3FE-200D-2642": {
@@ -14935,7 +14935,7 @@
 		"value": "🙋🏾‍♂",
 		"descriptor": "Man Raising Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_raising_hand_medium_dark_skin_tone:"
+			":man_raising_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F64B-1F3FF": {
@@ -14999,7 +14999,7 @@
 		"value": "🙌🏼",
 		"descriptor": "Raising Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":raising_hands_medium_light_skin_tone:"
+			":raising_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F64C-1F3FD": {
@@ -15015,7 +15015,7 @@
 		"value": "🙌🏾",
 		"descriptor": "Raising Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":raising_hands_medium_dark_skin_tone:"
+			":raising_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F64C-1F3FF": {
@@ -15063,7 +15063,7 @@
 		"value": "🙍🏼",
 		"descriptor": "Person Frowning: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_frowning_medium_light_skin_tone:"
+			":person_frowning_medium-light_skin_tone:"
 		]
 	},
 	"1F64D-1F3FC-200D-2640": {
@@ -15071,7 +15071,7 @@
 		"value": "🙍🏼‍♀",
 		"descriptor": "Woman Frowning: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_frowning_medium_light_skin_tone:"
+			":woman_frowning_medium-light_skin_tone:"
 		]
 	},
 	"1F64D-1F3FC-200D-2642": {
@@ -15079,7 +15079,7 @@
 		"value": "🙍🏼‍♂",
 		"descriptor": "Man Frowning: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_frowning_medium_light_skin_tone:"
+			":man_frowning_medium-light_skin_tone:"
 		]
 	},
 	"1F64D-1F3FD": {
@@ -15111,7 +15111,7 @@
 		"value": "🙍🏾",
 		"descriptor": "Person Frowning: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_frowning_medium_dark_skin_tone:"
+			":person_frowning_medium-dark_skin_tone:"
 		]
 	},
 	"1F64D-1F3FE-200D-2640": {
@@ -15119,7 +15119,7 @@
 		"value": "🙍🏾‍♀",
 		"descriptor": "Woman Frowning: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_frowning_medium_dark_skin_tone:"
+			":woman_frowning_medium-dark_skin_tone:"
 		]
 	},
 	"1F64D-1F3FE-200D-2642": {
@@ -15127,7 +15127,7 @@
 		"value": "🙍🏾‍♂",
 		"descriptor": "Man Frowning: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_frowning_medium_dark_skin_tone:"
+			":man_frowning_medium-dark_skin_tone:"
 		]
 	},
 	"1F64D-1F3FF": {
@@ -15207,7 +15207,7 @@
 		"value": "🙎🏼",
 		"descriptor": "Person Pouting: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_pouting_medium_light_skin_tone:"
+			":person_pouting_medium-light_skin_tone:"
 		]
 	},
 	"1F64E-1F3FC-200D-2640": {
@@ -15215,7 +15215,7 @@
 		"value": "🙎🏼‍♀",
 		"descriptor": "Woman Pouting: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_pouting_medium_light_skin_tone:"
+			":woman_pouting_medium-light_skin_tone:"
 		]
 	},
 	"1F64E-1F3FC-200D-2642": {
@@ -15223,7 +15223,7 @@
 		"value": "🙎🏼‍♂",
 		"descriptor": "Man Pouting: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_pouting_medium_light_skin_tone:"
+			":man_pouting_medium-light_skin_tone:"
 		]
 	},
 	"1F64E-1F3FD": {
@@ -15255,7 +15255,7 @@
 		"value": "🙎🏾",
 		"descriptor": "Person Pouting: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_pouting_medium_dark_skin_tone:"
+			":person_pouting_medium-dark_skin_tone:"
 		]
 	},
 	"1F64E-1F3FE-200D-2640": {
@@ -15263,7 +15263,7 @@
 		"value": "🙎🏾‍♀",
 		"descriptor": "Woman Pouting: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_pouting_medium_dark_skin_tone:"
+			":woman_pouting_medium-dark_skin_tone:"
 		]
 	},
 	"1F64E-1F3FE-200D-2642": {
@@ -15271,7 +15271,7 @@
 		"value": "🙎🏾‍♂",
 		"descriptor": "Man Pouting: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_pouting_medium_dark_skin_tone:"
+			":man_pouting_medium-dark_skin_tone:"
 		]
 	},
 	"1F64E-1F3FF": {
@@ -15335,7 +15335,7 @@
 		"value": "🙏🏼",
 		"descriptor": "Folded Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":folded_hands_medium_light_skin_tone:"
+			":folded_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F64F-1F3FD": {
@@ -15351,7 +15351,7 @@
 		"value": "🙏🏾",
 		"descriptor": "Folded Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":folded_hands_medium_dark_skin_tone:"
+			":folded_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F64F-1F3FF": {
@@ -15680,7 +15680,7 @@
 		"value": "🚣🏼",
 		"descriptor": "Person Rowing Boat: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_rowing_boat_medium_light_skin_tone:"
+			":person_rowing_boat_medium-light_skin_tone:"
 		]
 	},
 	"1F6A3-1F3FC-200D-2640": {
@@ -15688,7 +15688,7 @@
 		"value": "🚣🏼‍♀",
 		"descriptor": "Woman Rowing Boat: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_rowing_boat_medium_light_skin_tone:"
+			":woman_rowing_boat_medium-light_skin_tone:"
 		]
 	},
 	"1F6A3-1F3FC-200D-2642": {
@@ -15696,7 +15696,7 @@
 		"value": "🚣🏼‍♂",
 		"descriptor": "Man Rowing Boat: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_rowing_boat_medium_light_skin_tone:"
+			":man_rowing_boat_medium-light_skin_tone:"
 		]
 	},
 	"1F6A3-1F3FD": {
@@ -15728,7 +15728,7 @@
 		"value": "🚣🏾",
 		"descriptor": "Person Rowing Boat: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_rowing_boat_medium_dark_skin_tone:"
+			":person_rowing_boat_medium-dark_skin_tone:"
 		]
 	},
 	"1F6A3-1F3FE-200D-2640": {
@@ -15736,7 +15736,7 @@
 		"value": "🚣🏾‍♀",
 		"descriptor": "Woman Rowing Boat: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_rowing_boat_medium_dark_skin_tone:"
+			":woman_rowing_boat_medium-dark_skin_tone:"
 		]
 	},
 	"1F6A3-1F3FE-200D-2642": {
@@ -15744,7 +15744,7 @@
 		"value": "🚣🏾‍♂",
 		"descriptor": "Man Rowing Boat: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_rowing_boat_medium_dark_skin_tone:"
+			":man_rowing_boat_medium-dark_skin_tone:"
 		]
 	},
 	"1F6A3-1F3FF": {
@@ -15952,7 +15952,7 @@
 		"value": "🚴🏼",
 		"descriptor": "Person Biking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_biking_medium_light_skin_tone:"
+			":person_biking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B4-1F3FC-200D-2640": {
@@ -15960,7 +15960,7 @@
 		"value": "🚴🏼‍♀",
 		"descriptor": "Woman Biking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_biking_medium_light_skin_tone:"
+			":woman_biking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B4-1F3FC-200D-2642": {
@@ -15968,7 +15968,7 @@
 		"value": "🚴🏼‍♂",
 		"descriptor": "Man Biking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_biking_medium_light_skin_tone:"
+			":man_biking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B4-1F3FD": {
@@ -16000,7 +16000,7 @@
 		"value": "🚴🏾",
 		"descriptor": "Person Biking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_biking_medium_dark_skin_tone:"
+			":person_biking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B4-1F3FE-200D-2640": {
@@ -16008,7 +16008,7 @@
 		"value": "🚴🏾‍♀",
 		"descriptor": "Woman Biking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_biking_medium_dark_skin_tone:"
+			":woman_biking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B4-1F3FE-200D-2642": {
@@ -16016,7 +16016,7 @@
 		"value": "🚴🏾‍♂",
 		"descriptor": "Man Biking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_biking_medium_dark_skin_tone:"
+			":man_biking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B4-1F3FF": {
@@ -16096,7 +16096,7 @@
 		"value": "🚵🏼",
 		"descriptor": "Person Mountain Biking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_mountain_biking_medium_light_skin_tone:"
+			":person_mountain_biking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B5-1F3FC-200D-2640": {
@@ -16104,7 +16104,7 @@
 		"value": "🚵🏼‍♀",
 		"descriptor": "Woman Mountain Biking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_mountain_biking_medium_light_skin_tone:"
+			":woman_mountain_biking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B5-1F3FC-200D-2642": {
@@ -16112,7 +16112,7 @@
 		"value": "🚵🏼‍♂",
 		"descriptor": "Man Mountain Biking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_mountain_biking_medium_light_skin_tone:"
+			":man_mountain_biking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B5-1F3FD": {
@@ -16144,7 +16144,7 @@
 		"value": "🚵🏾",
 		"descriptor": "Person Mountain Biking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_mountain_biking_medium_dark_skin_tone:"
+			":person_mountain_biking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B5-1F3FE-200D-2640": {
@@ -16152,7 +16152,7 @@
 		"value": "🚵🏾‍♀",
 		"descriptor": "Woman Mountain Biking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_mountain_biking_medium_dark_skin_tone:"
+			":woman_mountain_biking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B5-1F3FE-200D-2642": {
@@ -16160,7 +16160,7 @@
 		"value": "🚵🏾‍♂",
 		"descriptor": "Man Mountain Biking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_mountain_biking_medium_dark_skin_tone:"
+			":man_mountain_biking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B5-1F3FF": {
@@ -16240,7 +16240,7 @@
 		"value": "🚶🏼",
 		"descriptor": "Person Walking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_walking_medium_light_skin_tone:"
+			":person_walking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B6-1F3FC-200D-2640": {
@@ -16248,7 +16248,7 @@
 		"value": "🚶🏼‍♀",
 		"descriptor": "Woman Walking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_walking_medium_light_skin_tone:"
+			":woman_walking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B6-1F3FC-200D-2642": {
@@ -16256,7 +16256,7 @@
 		"value": "🚶🏼‍♂",
 		"descriptor": "Man Walking: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_walking_medium_light_skin_tone:"
+			":man_walking_medium-light_skin_tone:"
 		]
 	},
 	"1F6B6-1F3FD": {
@@ -16288,7 +16288,7 @@
 		"value": "🚶🏾",
 		"descriptor": "Person Walking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_walking_medium_dark_skin_tone:"
+			":person_walking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B6-1F3FE-200D-2640": {
@@ -16296,7 +16296,7 @@
 		"value": "🚶🏾‍♀",
 		"descriptor": "Woman Walking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_walking_medium_dark_skin_tone:"
+			":woman_walking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B6-1F3FE-200D-2642": {
@@ -16304,7 +16304,7 @@
 		"value": "🚶🏾‍♂",
 		"descriptor": "Man Walking: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_walking_medium_dark_skin_tone:"
+			":man_walking_medium-dark_skin_tone:"
 		]
 	},
 	"1F6B6-1F3FF": {
@@ -16440,7 +16440,7 @@
 		"value": "🛀🏼",
 		"descriptor": "Person Taking Bath: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_taking_bath_medium_light_skin_tone:"
+			":person_taking_bath_medium-light_skin_tone:"
 		]
 	},
 	"1F6C0-1F3FD": {
@@ -16456,7 +16456,7 @@
 		"value": "🛀🏾",
 		"descriptor": "Person Taking Bath: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_taking_bath_medium_dark_skin_tone:"
+			":person_taking_bath_medium-dark_skin_tone:"
 		]
 	},
 	"1F6C0-1F3FF": {
@@ -16856,7 +16856,7 @@
 		"value": "🤏🏼",
 		"descriptor": "Pinching Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":pinching_hand_medium_light_skin_tone:"
+			":pinching_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F90F-1F3FD": {
@@ -16872,7 +16872,7 @@
 		"value": "🤏🏾",
 		"descriptor": "Pinching Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":pinching_hand_medium_dark_skin_tone:"
+			":pinching_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F90F-1F3FF": {
@@ -16888,7 +16888,7 @@
 		"value": "🤐",
 		"descriptor": "Zipper-Mouth Face",
 		"shortcodes": [
-			":zipper_mouth_face:"
+			":zipper-mouth_face:"
 		]
 	},
 	"1F911": {
@@ -16896,7 +16896,7 @@
 		"value": "🤑",
 		"descriptor": "Money-Mouth Face",
 		"shortcodes": [
-			":money_mouth_face:"
+			":money-mouth_face:"
 		]
 	},
 	"1F912": {
@@ -16928,7 +16928,7 @@
 		"value": "🤕",
 		"descriptor": "Face with Head-Bandage",
 		"shortcodes": [
-			":face_with_head_bandage:"
+			":face_with_head-bandage:"
 		]
 	},
 	"1F916": {
@@ -16968,7 +16968,7 @@
 		"value": "🤘🏼",
 		"descriptor": "Sign of the Horns: Medium-Light Skin Tone",
 		"shortcodes": [
-			":sign_of_the_horns_medium_light_skin_tone:"
+			":sign_of_the_horns_medium-light_skin_tone:"
 		]
 	},
 	"1F918-1F3FD": {
@@ -16984,7 +16984,7 @@
 		"value": "🤘🏾",
 		"descriptor": "Sign of the Horns: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":sign_of_the_horns_medium_dark_skin_tone:"
+			":sign_of_the_horns_medium-dark_skin_tone:"
 		]
 	},
 	"1F918-1F3FF": {
@@ -17016,7 +17016,7 @@
 		"value": "🤙🏼",
 		"descriptor": "Call Me Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":call_me_hand_medium_light_skin_tone:"
+			":call_me_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F919-1F3FD": {
@@ -17032,7 +17032,7 @@
 		"value": "🤙🏾",
 		"descriptor": "Call Me Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":call_me_hand_medium_dark_skin_tone:"
+			":call_me_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F919-1F3FF": {
@@ -17064,7 +17064,7 @@
 		"value": "🤚🏼",
 		"descriptor": "Raised Back of Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":raised_back_of_hand_medium_light_skin_tone:"
+			":raised_back_of_hand_medium-light_skin_tone:"
 		]
 	},
 	"1F91A-1F3FD": {
@@ -17080,7 +17080,7 @@
 		"value": "🤚🏾",
 		"descriptor": "Raised Back of Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":raised_back_of_hand_medium_dark_skin_tone:"
+			":raised_back_of_hand_medium-dark_skin_tone:"
 		]
 	},
 	"1F91A-1F3FF": {
@@ -17096,7 +17096,7 @@
 		"value": "🤛",
 		"descriptor": "Left-Facing Fist",
 		"shortcodes": [
-			":left_facing_fist:"
+			":left-facing_fist:"
 		]
 	},
 	"1F91B-1F3FB": {
@@ -17104,7 +17104,7 @@
 		"value": "🤛🏻",
 		"descriptor": "Left-Facing Fist: Light Skin Tone",
 		"shortcodes": [
-			":left_facing_fist_light_skin_tone:"
+			":left-facing_fist_light_skin_tone:"
 		]
 	},
 	"1F91B-1F3FC": {
@@ -17112,7 +17112,7 @@
 		"value": "🤛🏼",
 		"descriptor": "Left-Facing Fist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":left_facing_fist_medium_light_skin_tone:"
+			":left-facing_fist_medium-light_skin_tone:"
 		]
 	},
 	"1F91B-1F3FD": {
@@ -17120,7 +17120,7 @@
 		"value": "🤛🏽",
 		"descriptor": "Left-Facing Fist: Medium Skin Tone",
 		"shortcodes": [
-			":left_facing_fist_medium_skin_tone:"
+			":left-facing_fist_medium_skin_tone:"
 		]
 	},
 	"1F91B-1F3FE": {
@@ -17128,7 +17128,7 @@
 		"value": "🤛🏾",
 		"descriptor": "Left-Facing Fist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":left_facing_fist_medium_dark_skin_tone:"
+			":left-facing_fist_medium-dark_skin_tone:"
 		]
 	},
 	"1F91B-1F3FF": {
@@ -17136,7 +17136,7 @@
 		"value": "🤛🏿",
 		"descriptor": "Left-Facing Fist: Dark Skin Tone",
 		"shortcodes": [
-			":left_facing_fist_dark_skin_tone:"
+			":left-facing_fist_dark_skin_tone:"
 		]
 	},
 	"1F91C": {
@@ -17144,7 +17144,7 @@
 		"value": "🤜",
 		"descriptor": "Right-Facing Fist",
 		"shortcodes": [
-			":right_facing_fist:"
+			":right-facing_fist:"
 		]
 	},
 	"1F91C-1F3FB": {
@@ -17152,7 +17152,7 @@
 		"value": "🤜🏻",
 		"descriptor": "Right-Facing Fist: Light Skin Tone",
 		"shortcodes": [
-			":right_facing_fist_light_skin_tone:"
+			":right-facing_fist_light_skin_tone:"
 		]
 	},
 	"1F91C-1F3FC": {
@@ -17160,7 +17160,7 @@
 		"value": "🤜🏼",
 		"descriptor": "Right-Facing Fist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":right_facing_fist_medium_light_skin_tone:"
+			":right-facing_fist_medium-light_skin_tone:"
 		]
 	},
 	"1F91C-1F3FD": {
@@ -17168,7 +17168,7 @@
 		"value": "🤜🏽",
 		"descriptor": "Right-Facing Fist: Medium Skin Tone",
 		"shortcodes": [
-			":right_facing_fist_medium_skin_tone:"
+			":right-facing_fist_medium_skin_tone:"
 		]
 	},
 	"1F91C-1F3FE": {
@@ -17176,7 +17176,7 @@
 		"value": "🤜🏾",
 		"descriptor": "Right-Facing Fist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":right_facing_fist_medium_dark_skin_tone:"
+			":right-facing_fist_medium-dark_skin_tone:"
 		]
 	},
 	"1F91C-1F3FF": {
@@ -17184,7 +17184,7 @@
 		"value": "🤜🏿",
 		"descriptor": "Right-Facing Fist: Dark Skin Tone",
 		"shortcodes": [
-			":right_facing_fist_dark_skin_tone:"
+			":right-facing_fist_dark_skin_tone:"
 		]
 	},
 	"1F91D": {
@@ -17216,7 +17216,7 @@
 		"value": "🤞🏼",
 		"descriptor": "Crossed Fingers: Medium-Light Skin Tone",
 		"shortcodes": [
-			":crossed_fingers_medium_light_skin_tone:"
+			":crossed_fingers_medium-light_skin_tone:"
 		]
 	},
 	"1F91E-1F3FD": {
@@ -17232,7 +17232,7 @@
 		"value": "🤞🏾",
 		"descriptor": "Crossed Fingers: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":crossed_fingers_medium_dark_skin_tone:"
+			":crossed_fingers_medium-dark_skin_tone:"
 		]
 	},
 	"1F91E-1F3FF": {
@@ -17248,7 +17248,7 @@
 		"value": "🤟",
 		"descriptor": "Love-You Gesture",
 		"shortcodes": [
-			":love_you_gesture:"
+			":love-you_gesture:"
 		]
 	},
 	"1F91F-1F3FB": {
@@ -17256,7 +17256,7 @@
 		"value": "🤟🏻",
 		"descriptor": "Love-You Gesture: Light Skin Tone",
 		"shortcodes": [
-			":love_you_gesture_light_skin_tone:"
+			":love-you_gesture_light_skin_tone:"
 		]
 	},
 	"1F91F-1F3FC": {
@@ -17264,7 +17264,7 @@
 		"value": "🤟🏼",
 		"descriptor": "Love-You Gesture: Medium-Light Skin Tone",
 		"shortcodes": [
-			":love_you_gesture_medium_light_skin_tone:"
+			":love-you_gesture_medium-light_skin_tone:"
 		]
 	},
 	"1F91F-1F3FD": {
@@ -17272,7 +17272,7 @@
 		"value": "🤟🏽",
 		"descriptor": "Love-You Gesture: Medium Skin Tone",
 		"shortcodes": [
-			":love_you_gesture_medium_skin_tone:"
+			":love-you_gesture_medium_skin_tone:"
 		]
 	},
 	"1F91F-1F3FE": {
@@ -17280,7 +17280,7 @@
 		"value": "🤟🏾",
 		"descriptor": "Love-You Gesture: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":love_you_gesture_medium_dark_skin_tone:"
+			":love-you_gesture_medium-dark_skin_tone:"
 		]
 	},
 	"1F91F-1F3FF": {
@@ -17288,7 +17288,7 @@
 		"value": "🤟🏿",
 		"descriptor": "Love-You Gesture: Dark Skin Tone",
 		"shortcodes": [
-			":love_you_gesture_dark_skin_tone:"
+			":love-you_gesture_dark_skin_tone:"
 		]
 	},
 	"1F920": {
@@ -17376,7 +17376,7 @@
 		"value": "🤦🏼",
 		"descriptor": "Person Facepalming: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_facepalming_medium_light_skin_tone:"
+			":person_facepalming_medium-light_skin_tone:"
 		]
 	},
 	"1F926-1F3FC-200D-2640": {
@@ -17384,7 +17384,7 @@
 		"value": "🤦🏼‍♀",
 		"descriptor": "Woman Facepalming: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_facepalming_medium_light_skin_tone:"
+			":woman_facepalming_medium-light_skin_tone:"
 		]
 	},
 	"1F926-1F3FC-200D-2642": {
@@ -17392,7 +17392,7 @@
 		"value": "🤦🏼‍♂",
 		"descriptor": "Man Facepalming: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_facepalming_medium_light_skin_tone:"
+			":man_facepalming_medium-light_skin_tone:"
 		]
 	},
 	"1F926-1F3FD": {
@@ -17424,7 +17424,7 @@
 		"value": "🤦🏾",
 		"descriptor": "Person Facepalming: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_facepalming_medium_dark_skin_tone:"
+			":person_facepalming_medium-dark_skin_tone:"
 		]
 	},
 	"1F926-1F3FE-200D-2640": {
@@ -17432,7 +17432,7 @@
 		"value": "🤦🏾‍♀",
 		"descriptor": "Woman Facepalming: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_facepalming_medium_dark_skin_tone:"
+			":woman_facepalming_medium-dark_skin_tone:"
 		]
 	},
 	"1F926-1F3FE-200D-2642": {
@@ -17440,7 +17440,7 @@
 		"value": "🤦🏾‍♂",
 		"descriptor": "Man Facepalming: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_facepalming_medium_dark_skin_tone:"
+			":man_facepalming_medium-dark_skin_tone:"
 		]
 	},
 	"1F926-1F3FF": {
@@ -17504,7 +17504,7 @@
 		"value": "🤩",
 		"descriptor": "Star-Struck",
 		"shortcodes": [
-			":star_struck:"
+			":star-struck:"
 		]
 	},
 	"1F92A": {
@@ -17576,7 +17576,7 @@
 		"value": "🤰🏼",
 		"descriptor": "Pregnant Woman: Medium-Light Skin Tone",
 		"shortcodes": [
-			":pregnant_woman_medium_light_skin_tone:"
+			":pregnant_woman_medium-light_skin_tone:"
 		]
 	},
 	"1F930-1F3FD": {
@@ -17592,7 +17592,7 @@
 		"value": "🤰🏾",
 		"descriptor": "Pregnant Woman: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":pregnant_woman_medium_dark_skin_tone:"
+			":pregnant_woman_medium-dark_skin_tone:"
 		]
 	},
 	"1F930-1F3FF": {
@@ -17608,7 +17608,7 @@
 		"value": "🤱",
 		"descriptor": "Breast-Feeding",
 		"shortcodes": [
-			":breast_feeding:"
+			":breast-feeding:"
 		]
 	},
 	"1F931-1F3FB": {
@@ -17616,7 +17616,7 @@
 		"value": "🤱🏻",
 		"descriptor": "Breast-Feeding: Light Skin Tone",
 		"shortcodes": [
-			":breast_feeding_light_skin_tone:"
+			":breast-feeding_light_skin_tone:"
 		]
 	},
 	"1F931-1F3FC": {
@@ -17624,7 +17624,7 @@
 		"value": "🤱🏼",
 		"descriptor": "Breast-Feeding: Medium-Light Skin Tone",
 		"shortcodes": [
-			":breast_feeding_medium_light_skin_tone:"
+			":breast-feeding_medium-light_skin_tone:"
 		]
 	},
 	"1F931-1F3FD": {
@@ -17632,7 +17632,7 @@
 		"value": "🤱🏽",
 		"descriptor": "Breast-Feeding: Medium Skin Tone",
 		"shortcodes": [
-			":breast_feeding_medium_skin_tone:"
+			":breast-feeding_medium_skin_tone:"
 		]
 	},
 	"1F931-1F3FE": {
@@ -17640,7 +17640,7 @@
 		"value": "🤱🏾",
 		"descriptor": "Breast-Feeding: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":breast_feeding_medium_dark_skin_tone:"
+			":breast-feeding_medium-dark_skin_tone:"
 		]
 	},
 	"1F931-1F3FF": {
@@ -17648,7 +17648,7 @@
 		"value": "🤱🏿",
 		"descriptor": "Breast-Feeding: Dark Skin Tone",
 		"shortcodes": [
-			":breast_feeding_dark_skin_tone:"
+			":breast-feeding_dark_skin_tone:"
 		]
 	},
 	"1F932": {
@@ -17672,7 +17672,7 @@
 		"value": "🤲🏼",
 		"descriptor": "Palms Up Together: Medium-Light Skin Tone",
 		"shortcodes": [
-			":palms_up_together_medium_light_skin_tone:"
+			":palms_up_together_medium-light_skin_tone:"
 		]
 	},
 	"1F932-1F3FD": {
@@ -17688,7 +17688,7 @@
 		"value": "🤲🏾",
 		"descriptor": "Palms Up Together: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":palms_up_together_medium_dark_skin_tone:"
+			":palms_up_together_medium-dark_skin_tone:"
 		]
 	},
 	"1F932-1F3FF": {
@@ -17720,7 +17720,7 @@
 		"value": "🤳🏼",
 		"descriptor": "Selfie: Medium-Light Skin Tone",
 		"shortcodes": [
-			":selfie_medium_light_skin_tone:"
+			":selfie_medium-light_skin_tone:"
 		]
 	},
 	"1F933-1F3FD": {
@@ -17736,7 +17736,7 @@
 		"value": "🤳🏾",
 		"descriptor": "Selfie: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":selfie_medium_dark_skin_tone:"
+			":selfie_medium-dark_skin_tone:"
 		]
 	},
 	"1F933-1F3FF": {
@@ -17768,7 +17768,7 @@
 		"value": "🤴🏼",
 		"descriptor": "Prince: Medium-Light Skin Tone",
 		"shortcodes": [
-			":prince_medium_light_skin_tone:"
+			":prince_medium-light_skin_tone:"
 		]
 	},
 	"1F934-1F3FD": {
@@ -17784,7 +17784,7 @@
 		"value": "🤴🏾",
 		"descriptor": "Prince: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":prince_medium_dark_skin_tone:"
+			":prince_medium-dark_skin_tone:"
 		]
 	},
 	"1F934-1F3FF": {
@@ -17816,7 +17816,7 @@
 		"value": "🤵🏼",
 		"descriptor": "Person in Tuxedo: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_in_tuxedo_medium_light_skin_tone:"
+			":person_in_tuxedo_medium-light_skin_tone:"
 		]
 	},
 	"1F935-1F3FD": {
@@ -17832,7 +17832,7 @@
 		"value": "🤵🏾",
 		"descriptor": "Person in Tuxedo: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_in_tuxedo_medium_dark_skin_tone:"
+			":person_in_tuxedo_medium-dark_skin_tone:"
 		]
 	},
 	"1F935-1F3FF": {
@@ -17864,7 +17864,7 @@
 		"value": "🤶🏼",
 		"descriptor": "Mrs. Claus: Medium-Light Skin Tone",
 		"shortcodes": [
-			":mrs_claus_medium_light_skin_tone:"
+			":mrs_claus_medium-light_skin_tone:"
 		]
 	},
 	"1F936-1F3FD": {
@@ -17880,7 +17880,7 @@
 		"value": "🤶🏾",
 		"descriptor": "Mrs. Claus: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":mrs_claus_medium_dark_skin_tone:"
+			":mrs_claus_medium-dark_skin_tone:"
 		]
 	},
 	"1F936-1F3FF": {
@@ -17928,7 +17928,7 @@
 		"value": "🤷🏼",
 		"descriptor": "Person Shrugging: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_shrugging_medium_light_skin_tone:"
+			":person_shrugging_medium-light_skin_tone:"
 		]
 	},
 	"1F937-1F3FC-200D-2640": {
@@ -17936,7 +17936,7 @@
 		"value": "🤷🏼‍♀",
 		"descriptor": "Woman Shrugging: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_shrugging_medium_light_skin_tone:"
+			":woman_shrugging_medium-light_skin_tone:"
 		]
 	},
 	"1F937-1F3FC-200D-2642": {
@@ -17944,7 +17944,7 @@
 		"value": "🤷🏼‍♂",
 		"descriptor": "Man Shrugging: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_shrugging_medium_light_skin_tone:"
+			":man_shrugging_medium-light_skin_tone:"
 		]
 	},
 	"1F937-1F3FD": {
@@ -17976,7 +17976,7 @@
 		"value": "🤷🏾",
 		"descriptor": "Person Shrugging: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_shrugging_medium_dark_skin_tone:"
+			":person_shrugging_medium-dark_skin_tone:"
 		]
 	},
 	"1F937-1F3FE-200D-2640": {
@@ -17984,7 +17984,7 @@
 		"value": "🤷🏾‍♀",
 		"descriptor": "Woman Shrugging: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_shrugging_medium_dark_skin_tone:"
+			":woman_shrugging_medium-dark_skin_tone:"
 		]
 	},
 	"1F937-1F3FE-200D-2642": {
@@ -17992,7 +17992,7 @@
 		"value": "🤷🏾‍♂",
 		"descriptor": "Man Shrugging: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_shrugging_medium_dark_skin_tone:"
+			":man_shrugging_medium-dark_skin_tone:"
 		]
 	},
 	"1F937-1F3FF": {
@@ -18072,7 +18072,7 @@
 		"value": "🤸🏼",
 		"descriptor": "Person Cartwheeling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_cartwheeling_medium_light_skin_tone:"
+			":person_cartwheeling_medium-light_skin_tone:"
 		]
 	},
 	"1F938-1F3FC-200D-2640": {
@@ -18080,7 +18080,7 @@
 		"value": "🤸🏼‍♀",
 		"descriptor": "Woman Cartwheeling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_cartwheeling_medium_light_skin_tone:"
+			":woman_cartwheeling_medium-light_skin_tone:"
 		]
 	},
 	"1F938-1F3FC-200D-2642": {
@@ -18088,7 +18088,7 @@
 		"value": "🤸🏼‍♂",
 		"descriptor": "Man Cartwheeling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_cartwheeling_medium_light_skin_tone:"
+			":man_cartwheeling_medium-light_skin_tone:"
 		]
 	},
 	"1F938-1F3FD": {
@@ -18120,7 +18120,7 @@
 		"value": "🤸🏾",
 		"descriptor": "Person Cartwheeling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_cartwheeling_medium_dark_skin_tone:"
+			":person_cartwheeling_medium-dark_skin_tone:"
 		]
 	},
 	"1F938-1F3FE-200D-2640": {
@@ -18128,7 +18128,7 @@
 		"value": "🤸🏾‍♀",
 		"descriptor": "Woman Cartwheeling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_cartwheeling_medium_dark_skin_tone:"
+			":woman_cartwheeling_medium-dark_skin_tone:"
 		]
 	},
 	"1F938-1F3FE-200D-2642": {
@@ -18136,7 +18136,7 @@
 		"value": "🤸🏾‍♂",
 		"descriptor": "Man Cartwheeling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_cartwheeling_medium_dark_skin_tone:"
+			":man_cartwheeling_medium-dark_skin_tone:"
 		]
 	},
 	"1F938-1F3FF": {
@@ -18216,7 +18216,7 @@
 		"value": "🤹🏼",
 		"descriptor": "Person Juggling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_juggling_medium_light_skin_tone:"
+			":person_juggling_medium-light_skin_tone:"
 		]
 	},
 	"1F939-1F3FC-200D-2640": {
@@ -18224,7 +18224,7 @@
 		"value": "🤹🏼‍♀",
 		"descriptor": "Woman Juggling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_juggling_medium_light_skin_tone:"
+			":woman_juggling_medium-light_skin_tone:"
 		]
 	},
 	"1F939-1F3FC-200D-2642": {
@@ -18232,7 +18232,7 @@
 		"value": "🤹🏼‍♂",
 		"descriptor": "Man Juggling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_juggling_medium_light_skin_tone:"
+			":man_juggling_medium-light_skin_tone:"
 		]
 	},
 	"1F939-1F3FD": {
@@ -18264,7 +18264,7 @@
 		"value": "🤹🏾",
 		"descriptor": "Person Juggling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_juggling_medium_dark_skin_tone:"
+			":person_juggling_medium-dark_skin_tone:"
 		]
 	},
 	"1F939-1F3FE-200D-2640": {
@@ -18272,7 +18272,7 @@
 		"value": "🤹🏾‍♀",
 		"descriptor": "Woman Juggling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_juggling_medium_dark_skin_tone:"
+			":woman_juggling_medium-dark_skin_tone:"
 		]
 	},
 	"1F939-1F3FE-200D-2642": {
@@ -18280,7 +18280,7 @@
 		"value": "🤹🏾‍♂",
 		"descriptor": "Man Juggling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_juggling_medium_dark_skin_tone:"
+			":man_juggling_medium-dark_skin_tone:"
 		]
 	},
 	"1F939-1F3FF": {
@@ -18392,7 +18392,7 @@
 		"value": "🤽🏼",
 		"descriptor": "Person Playing Water Polo: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_playing_water_polo_medium_light_skin_tone:"
+			":person_playing_water_polo_medium-light_skin_tone:"
 		]
 	},
 	"1F93D-1F3FC-200D-2640": {
@@ -18400,7 +18400,7 @@
 		"value": "🤽🏼‍♀",
 		"descriptor": "Woman Playing Water Polo: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_playing_water_polo_medium_light_skin_tone:"
+			":woman_playing_water_polo_medium-light_skin_tone:"
 		]
 	},
 	"1F93D-1F3FC-200D-2642": {
@@ -18408,7 +18408,7 @@
 		"value": "🤽🏼‍♂",
 		"descriptor": "Man Playing Water Polo: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_playing_water_polo_medium_light_skin_tone:"
+			":man_playing_water_polo_medium-light_skin_tone:"
 		]
 	},
 	"1F93D-1F3FD": {
@@ -18440,7 +18440,7 @@
 		"value": "🤽🏾",
 		"descriptor": "Person Playing Water Polo: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_playing_water_polo_medium_dark_skin_tone:"
+			":person_playing_water_polo_medium-dark_skin_tone:"
 		]
 	},
 	"1F93D-1F3FE-200D-2640": {
@@ -18448,7 +18448,7 @@
 		"value": "🤽🏾‍♀",
 		"descriptor": "Woman Playing Water Polo: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_playing_water_polo_medium_dark_skin_tone:"
+			":woman_playing_water_polo_medium-dark_skin_tone:"
 		]
 	},
 	"1F93D-1F3FE-200D-2642": {
@@ -18456,7 +18456,7 @@
 		"value": "🤽🏾‍♂",
 		"descriptor": "Man Playing Water Polo: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_playing_water_polo_medium_dark_skin_tone:"
+			":man_playing_water_polo_medium-dark_skin_tone:"
 		]
 	},
 	"1F93D-1F3FF": {
@@ -18536,7 +18536,7 @@
 		"value": "🤾🏼",
 		"descriptor": "Person Playing Handball: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_playing_handball_medium_light_skin_tone:"
+			":person_playing_handball_medium-light_skin_tone:"
 		]
 	},
 	"1F93E-1F3FC-200D-2640": {
@@ -18544,7 +18544,7 @@
 		"value": "🤾🏼‍♀",
 		"descriptor": "Woman Playing Handball: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_playing_handball_medium_light_skin_tone:"
+			":woman_playing_handball_medium-light_skin_tone:"
 		]
 	},
 	"1F93E-1F3FC-200D-2642": {
@@ -18552,7 +18552,7 @@
 		"value": "🤾🏼‍♂",
 		"descriptor": "Man Playing Handball: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_playing_handball_medium_light_skin_tone:"
+			":man_playing_handball_medium-light_skin_tone:"
 		]
 	},
 	"1F93E-1F3FD": {
@@ -18584,7 +18584,7 @@
 		"value": "🤾🏾",
 		"descriptor": "Person Playing Handball: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_playing_handball_medium_dark_skin_tone:"
+			":person_playing_handball_medium-dark_skin_tone:"
 		]
 	},
 	"1F93E-1F3FE-200D-2640": {
@@ -18592,7 +18592,7 @@
 		"value": "🤾🏾‍♀",
 		"descriptor": "Woman Playing Handball: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_playing_handball_medium_dark_skin_tone:"
+			":woman_playing_handball_medium-dark_skin_tone:"
 		]
 	},
 	"1F93E-1F3FE-200D-2642": {
@@ -18600,7 +18600,7 @@
 		"value": "🤾🏾‍♂",
 		"descriptor": "Man Playing Handball: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_playing_handball_medium_dark_skin_tone:"
+			":man_playing_handball_medium-dark_skin_tone:"
 		]
 	},
 	"1F93E-1F3FF": {
@@ -19304,7 +19304,7 @@
 		"value": "🦖",
 		"descriptor": "T-Rex",
 		"shortcodes": [
-			":t_rex:"
+			":t-rex:"
 		]
 	},
 	"1F997": {
@@ -19528,7 +19528,7 @@
 		"value": "🦵🏼",
 		"descriptor": "Leg: Medium-Light Skin Tone",
 		"shortcodes": [
-			":leg_medium_light_skin_tone:"
+			":leg_medium-light_skin_tone:"
 		]
 	},
 	"1F9B5-1F3FD": {
@@ -19544,7 +19544,7 @@
 		"value": "🦵🏾",
 		"descriptor": "Leg: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":leg_medium_dark_skin_tone:"
+			":leg_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B5-1F3FF": {
@@ -19576,7 +19576,7 @@
 		"value": "🦶🏼",
 		"descriptor": "Foot: Medium-Light Skin Tone",
 		"shortcodes": [
-			":foot_medium_light_skin_tone:"
+			":foot_medium-light_skin_tone:"
 		]
 	},
 	"1F9B6-1F3FD": {
@@ -19592,7 +19592,7 @@
 		"value": "🦶🏾",
 		"descriptor": "Foot: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":foot_medium_dark_skin_tone:"
+			":foot_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B6-1F3FF": {
@@ -19648,7 +19648,7 @@
 		"value": "🦸🏼",
 		"descriptor": "Superhero: Medium-Light Skin Tone",
 		"shortcodes": [
-			":superhero_medium_light_skin_tone:"
+			":superhero_medium-light_skin_tone:"
 		]
 	},
 	"1F9B8-1F3FC-200D-2640": {
@@ -19656,7 +19656,7 @@
 		"value": "🦸🏼‍♀",
 		"descriptor": "Woman Superhero: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_superhero_medium_light_skin_tone:"
+			":woman_superhero_medium-light_skin_tone:"
 		]
 	},
 	"1F9B8-1F3FC-200D-2642": {
@@ -19664,7 +19664,7 @@
 		"value": "🦸🏼‍♂",
 		"descriptor": "Man Superhero: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_superhero_medium_light_skin_tone:"
+			":man_superhero_medium-light_skin_tone:"
 		]
 	},
 	"1F9B8-1F3FD": {
@@ -19696,7 +19696,7 @@
 		"value": "🦸🏾",
 		"descriptor": "Superhero: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":superhero_medium_dark_skin_tone:"
+			":superhero_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B8-1F3FE-200D-2640": {
@@ -19704,7 +19704,7 @@
 		"value": "🦸🏾‍♀",
 		"descriptor": "Woman Superhero: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_superhero_medium_dark_skin_tone:"
+			":woman_superhero_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B8-1F3FE-200D-2642": {
@@ -19712,7 +19712,7 @@
 		"value": "🦸🏾‍♂",
 		"descriptor": "Man Superhero: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_superhero_medium_dark_skin_tone:"
+			":man_superhero_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B8-1F3FF": {
@@ -19792,7 +19792,7 @@
 		"value": "🦹🏼",
 		"descriptor": "Supervillain: Medium-Light Skin Tone",
 		"shortcodes": [
-			":supervillain_medium_light_skin_tone:"
+			":supervillain_medium-light_skin_tone:"
 		]
 	},
 	"1F9B9-1F3FC-200D-2640": {
@@ -19800,7 +19800,7 @@
 		"value": "🦹🏼‍♀",
 		"descriptor": "Woman Supervillain: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_supervillain_medium_light_skin_tone:"
+			":woman_supervillain_medium-light_skin_tone:"
 		]
 	},
 	"1F9B9-1F3FC-200D-2642": {
@@ -19808,7 +19808,7 @@
 		"value": "🦹🏼‍♂",
 		"descriptor": "Man Supervillain: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_supervillain_medium_light_skin_tone:"
+			":man_supervillain_medium-light_skin_tone:"
 		]
 	},
 	"1F9B9-1F3FD": {
@@ -19840,7 +19840,7 @@
 		"value": "🦹🏾",
 		"descriptor": "Supervillain: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":supervillain_medium_dark_skin_tone:"
+			":supervillain_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B9-1F3FE-200D-2640": {
@@ -19848,7 +19848,7 @@
 		"value": "🦹🏾‍♀",
 		"descriptor": "Woman Supervillain: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_supervillain_medium_dark_skin_tone:"
+			":woman_supervillain_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B9-1F3FE-200D-2642": {
@@ -19856,7 +19856,7 @@
 		"value": "🦹🏾‍♂",
 		"descriptor": "Man Supervillain: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_supervillain_medium_dark_skin_tone:"
+			":man_supervillain_medium-dark_skin_tone:"
 		]
 	},
 	"1F9B9-1F3FF": {
@@ -19928,7 +19928,7 @@
 		"value": "🦻🏼",
 		"descriptor": "Ear with Hearing Aid: Medium-Light Skin Tone",
 		"shortcodes": [
-			":ear_with_hearing_aid_medium_light_skin_tone:"
+			":ear_with_hearing_aid_medium-light_skin_tone:"
 		]
 	},
 	"1F9BB-1F3FD": {
@@ -19944,7 +19944,7 @@
 		"value": "🦻🏾",
 		"descriptor": "Ear with Hearing Aid: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":ear_with_hearing_aid_medium_dark_skin_tone:"
+			":ear_with_hearing_aid_medium-dark_skin_tone:"
 		]
 	},
 	"1F9BB-1F3FF": {
@@ -20112,7 +20112,7 @@
 		"value": "🧍🏼",
 		"descriptor": "Person Standing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_standing_medium_light_skin_tone:"
+			":person_standing_medium-light_skin_tone:"
 		]
 	},
 	"1F9CD-1F3FC-200D-2640": {
@@ -20120,7 +20120,7 @@
 		"value": "🧍🏼‍♀",
 		"descriptor": "Woman Standing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_standing_medium_light_skin_tone:"
+			":woman_standing_medium-light_skin_tone:"
 		]
 	},
 	"1F9CD-1F3FC-200D-2642": {
@@ -20128,7 +20128,7 @@
 		"value": "🧍🏼‍♂",
 		"descriptor": "Man Standing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_standing_medium_light_skin_tone:"
+			":man_standing_medium-light_skin_tone:"
 		]
 	},
 	"1F9CD-1F3FD": {
@@ -20160,7 +20160,7 @@
 		"value": "🧍🏾",
 		"descriptor": "Person Standing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_standing_medium_dark_skin_tone:"
+			":person_standing_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CD-1F3FE-200D-2640": {
@@ -20168,7 +20168,7 @@
 		"value": "🧍🏾‍♀",
 		"descriptor": "Woman Standing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_standing_medium_dark_skin_tone:"
+			":woman_standing_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CD-1F3FE-200D-2642": {
@@ -20176,7 +20176,7 @@
 		"value": "🧍🏾‍♂",
 		"descriptor": "Man Standing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_standing_medium_dark_skin_tone:"
+			":man_standing_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CD-1F3FF": {
@@ -20256,7 +20256,7 @@
 		"value": "🧎🏼",
 		"descriptor": "Person Kneeling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_kneeling_medium_light_skin_tone:"
+			":person_kneeling_medium-light_skin_tone:"
 		]
 	},
 	"1F9CE-1F3FC-200D-2640": {
@@ -20264,7 +20264,7 @@
 		"value": "🧎🏼‍♀",
 		"descriptor": "Woman Kneeling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_kneeling_medium_light_skin_tone:"
+			":woman_kneeling_medium-light_skin_tone:"
 		]
 	},
 	"1F9CE-1F3FC-200D-2642": {
@@ -20272,7 +20272,7 @@
 		"value": "🧎🏼‍♂",
 		"descriptor": "Man Kneeling: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_kneeling_medium_light_skin_tone:"
+			":man_kneeling_medium-light_skin_tone:"
 		]
 	},
 	"1F9CE-1F3FD": {
@@ -20304,7 +20304,7 @@
 		"value": "🧎🏾",
 		"descriptor": "Person Kneeling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_kneeling_medium_dark_skin_tone:"
+			":person_kneeling_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CE-1F3FE-200D-2640": {
@@ -20312,7 +20312,7 @@
 		"value": "🧎🏾‍♀",
 		"descriptor": "Woman Kneeling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_kneeling_medium_dark_skin_tone:"
+			":woman_kneeling_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CE-1F3FE-200D-2642": {
@@ -20320,7 +20320,7 @@
 		"value": "🧎🏾‍♂",
 		"descriptor": "Man Kneeling: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_kneeling_medium_dark_skin_tone:"
+			":man_kneeling_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CE-1F3FF": {
@@ -20400,7 +20400,7 @@
 		"value": "🧏🏼",
 		"descriptor": "Deaf Person: Medium-Light Skin Tone",
 		"shortcodes": [
-			":deaf_person_medium_light_skin_tone:"
+			":deaf_person_medium-light_skin_tone:"
 		]
 	},
 	"1F9CF-1F3FC-200D-2640": {
@@ -20408,7 +20408,7 @@
 		"value": "🧏🏼‍♀",
 		"descriptor": "Deaf Woman: Medium-Light Skin Tone",
 		"shortcodes": [
-			":deaf_woman_medium_light_skin_tone:"
+			":deaf_woman_medium-light_skin_tone:"
 		]
 	},
 	"1F9CF-1F3FC-200D-2642": {
@@ -20416,7 +20416,7 @@
 		"value": "🧏🏼‍♂",
 		"descriptor": "Deaf Man: Medium-Light Skin Tone",
 		"shortcodes": [
-			":deaf_man_medium_light_skin_tone:"
+			":deaf_man_medium-light_skin_tone:"
 		]
 	},
 	"1F9CF-1F3FD": {
@@ -20448,7 +20448,7 @@
 		"value": "🧏🏾",
 		"descriptor": "Deaf Person: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":deaf_person_medium_dark_skin_tone:"
+			":deaf_person_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CF-1F3FE-200D-2640": {
@@ -20456,7 +20456,7 @@
 		"value": "🧏🏾‍♀",
 		"descriptor": "Deaf Woman: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":deaf_woman_medium_dark_skin_tone:"
+			":deaf_woman_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CF-1F3FE-200D-2642": {
@@ -20464,7 +20464,7 @@
 		"value": "🧏🏾‍♂",
 		"descriptor": "Deaf Man: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":deaf_man_medium_dark_skin_tone:"
+			":deaf_man_medium-dark_skin_tone:"
 		]
 	},
 	"1F9CF-1F3FF": {
@@ -20648,7 +20648,7 @@
 		"value": "🧑🏻‍🤝‍🧑🏼",
 		"descriptor": "People Holding Hands: Light Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_light_skin_tone_medium_light_skin_tone:"
+			":people_holding_hands_light_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD": {
@@ -20664,7 +20664,7 @@
 		"value": "🧑🏻‍🤝‍🧑🏾",
 		"descriptor": "People Holding Hands: Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_light_skin_tone_medium_dark_skin_tone:"
+			":people_holding_hands_light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF": {
@@ -20760,7 +20760,7 @@
 		"value": "🧑🏼",
 		"descriptor": "Person: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_medium_light_skin_tone:"
+			":person_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F33E": {
@@ -20768,7 +20768,7 @@
 		"value": "🧑🏼‍🌾",
 		"descriptor": "Farmer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":farmer_medium_light_skin_tone:"
+			":farmer_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F373": {
@@ -20776,7 +20776,7 @@
 		"value": "🧑🏼‍🍳",
 		"descriptor": "Cook: Medium-Light Skin Tone",
 		"shortcodes": [
-			":cook_medium_light_skin_tone:"
+			":cook_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F393": {
@@ -20784,7 +20784,7 @@
 		"value": "🧑🏼‍🎓",
 		"descriptor": "Student: Medium-Light Skin Tone",
 		"shortcodes": [
-			":student_medium_light_skin_tone:"
+			":student_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F3A4": {
@@ -20792,7 +20792,7 @@
 		"value": "🧑🏼‍🎤",
 		"descriptor": "Singer: Medium-Light Skin Tone",
 		"shortcodes": [
-			":singer_medium_light_skin_tone:"
+			":singer_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F3A8": {
@@ -20800,7 +20800,7 @@
 		"value": "🧑🏼‍🎨",
 		"descriptor": "Artist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":artist_medium_light_skin_tone:"
+			":artist_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F3EB": {
@@ -20808,7 +20808,7 @@
 		"value": "🧑🏼‍🏫",
 		"descriptor": "Teacher: Medium-Light Skin Tone",
 		"shortcodes": [
-			":teacher_medium_light_skin_tone:"
+			":teacher_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F3ED": {
@@ -20816,7 +20816,7 @@
 		"value": "🧑🏼‍🏭",
 		"descriptor": "Factory Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":factory_worker_medium_light_skin_tone:"
+			":factory_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F4BB": {
@@ -20824,7 +20824,7 @@
 		"value": "🧑🏼‍💻",
 		"descriptor": "Technologist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":technologist_medium_light_skin_tone:"
+			":technologist_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F4BC": {
@@ -20832,7 +20832,7 @@
 		"value": "🧑🏼‍💼",
 		"descriptor": "Office Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":office_worker_medium_light_skin_tone:"
+			":office_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F527": {
@@ -20840,7 +20840,7 @@
 		"value": "🧑🏼‍🔧",
 		"descriptor": "Mechanic: Medium-Light Skin Tone",
 		"shortcodes": [
-			":mechanic_medium_light_skin_tone:"
+			":mechanic_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F52C": {
@@ -20848,7 +20848,7 @@
 		"value": "🧑🏼‍🔬",
 		"descriptor": "Scientist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":scientist_medium_light_skin_tone:"
+			":scientist_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F680": {
@@ -20856,7 +20856,7 @@
 		"value": "🧑🏼‍🚀",
 		"descriptor": "Astronaut: Medium-Light Skin Tone",
 		"shortcodes": [
-			":astronaut_medium_light_skin_tone:"
+			":astronaut_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F692": {
@@ -20864,7 +20864,7 @@
 		"value": "🧑🏼‍🚒",
 		"descriptor": "Firefighter: Medium-Light Skin Tone",
 		"shortcodes": [
-			":firefighter_medium_light_skin_tone:"
+			":firefighter_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB": {
@@ -20872,7 +20872,7 @@
 		"value": "🧑🏼‍🤝‍🧑🏻",
 		"descriptor": "People Holding Hands: Medium-Light Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_light_skin_tone_light_skin_tone:"
+			":people_holding_hands_medium-light_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC": {
@@ -20880,7 +20880,7 @@
 		"value": "🧑🏼‍🤝‍🧑🏼",
 		"descriptor": "People Holding Hands: Medium-Light Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_light_skin_tone:"
+			":people_holding_hands_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD": {
@@ -20888,7 +20888,7 @@
 		"value": "🧑🏼‍🤝‍🧑🏽",
 		"descriptor": "People Holding Hands: Medium-Light Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_light_skin_tone_medium_skin_tone:"
+			":people_holding_hands_medium-light_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE": {
@@ -20896,7 +20896,7 @@
 		"value": "🧑🏼‍🤝‍🧑🏾",
 		"descriptor": "People Holding Hands: Medium-Light Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_light_skin_tone_medium_dark_skin_tone:"
+			":people_holding_hands_medium-light_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF": {
@@ -20904,7 +20904,7 @@
 		"value": "🧑🏼‍🤝‍🧑🏿",
 		"descriptor": "People Holding Hands: Medium-Light Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_light_skin_tone_dark_skin_tone:"
+			":people_holding_hands_medium-light_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F9AF": {
@@ -20912,7 +20912,7 @@
 		"value": "🧑🏼‍🦯",
 		"descriptor": "Person with White Cane: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_with_white_cane_medium_light_skin_tone:"
+			":person_with_white_cane_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F9B0": {
@@ -20920,7 +20920,7 @@
 		"value": "🧑🏼‍🦰",
 		"descriptor": "Person: Medium-Light Skin Tone, Red Hair",
 		"shortcodes": [
-			":person_medium_light_skin_tone_red_hair:"
+			":person_medium-light_skin_tone_red_hair:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F9B1": {
@@ -20928,7 +20928,7 @@
 		"value": "🧑🏼‍🦱",
 		"descriptor": "Person: Medium-Light Skin Tone, Curly Hair",
 		"shortcodes": [
-			":person_medium_light_skin_tone_curly_hair:"
+			":person_medium-light_skin_tone_curly_hair:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F9B2": {
@@ -20936,7 +20936,7 @@
 		"value": "🧑🏼‍🦲",
 		"descriptor": "Person: Medium-Light Skin Tone, Bald",
 		"shortcodes": [
-			":person_medium_light_skin_tone_bald:"
+			":person_medium-light_skin_tone_bald:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F9B3": {
@@ -20944,7 +20944,7 @@
 		"value": "🧑🏼‍🦳",
 		"descriptor": "Person: Medium-Light Skin Tone, White Hair",
 		"shortcodes": [
-			":person_medium_light_skin_tone_white_hair:"
+			":person_medium-light_skin_tone_white_hair:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F9BC": {
@@ -20952,7 +20952,7 @@
 		"value": "🧑🏼‍🦼",
 		"descriptor": "Person in Motorized Wheelchair: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_in_motorized_wheelchair_medium_light_skin_tone:"
+			":person_in_motorized_wheelchair_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-1F9BD": {
@@ -20960,7 +20960,7 @@
 		"value": "🧑🏼‍🦽",
 		"descriptor": "Person in Manual Wheelchair: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_in_manual_wheelchair_medium_light_skin_tone:"
+			":person_in_manual_wheelchair_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-2695": {
@@ -20968,7 +20968,7 @@
 		"value": "🧑🏼‍⚕",
 		"descriptor": "Health Worker: Medium-Light Skin Tone",
 		"shortcodes": [
-			":health_worker_medium_light_skin_tone:"
+			":health_worker_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-2696": {
@@ -20976,7 +20976,7 @@
 		"value": "🧑🏼‍⚖",
 		"descriptor": "Judge: Medium-Light Skin Tone",
 		"shortcodes": [
-			":judge_medium_light_skin_tone:"
+			":judge_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FC-200D-2708": {
@@ -20984,7 +20984,7 @@
 		"value": "🧑🏼‍✈",
 		"descriptor": "Pilot: Medium-Light Skin Tone",
 		"shortcodes": [
-			":pilot_medium_light_skin_tone:"
+			":pilot_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FD": {
@@ -21112,7 +21112,7 @@
 		"value": "🧑🏽‍🤝‍🧑🏼",
 		"descriptor": "People Holding Hands: Medium Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_skin_tone_medium_light_skin_tone:"
+			":people_holding_hands_medium_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD": {
@@ -21128,7 +21128,7 @@
 		"value": "🧑🏽‍🤝‍🧑🏾",
 		"descriptor": "People Holding Hands: Medium Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_skin_tone_medium_dark_skin_tone:"
+			":people_holding_hands_medium_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF": {
@@ -21224,7 +21224,7 @@
 		"value": "🧑🏾",
 		"descriptor": "Person: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_medium_dark_skin_tone:"
+			":person_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F33E": {
@@ -21232,7 +21232,7 @@
 		"value": "🧑🏾‍🌾",
 		"descriptor": "Farmer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":farmer_medium_dark_skin_tone:"
+			":farmer_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F373": {
@@ -21240,7 +21240,7 @@
 		"value": "🧑🏾‍🍳",
 		"descriptor": "Cook: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":cook_medium_dark_skin_tone:"
+			":cook_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F393": {
@@ -21248,7 +21248,7 @@
 		"value": "🧑🏾‍🎓",
 		"descriptor": "Student: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":student_medium_dark_skin_tone:"
+			":student_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F3A4": {
@@ -21256,7 +21256,7 @@
 		"value": "🧑🏾‍🎤",
 		"descriptor": "Singer: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":singer_medium_dark_skin_tone:"
+			":singer_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F3A8": {
@@ -21264,7 +21264,7 @@
 		"value": "🧑🏾‍🎨",
 		"descriptor": "Artist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":artist_medium_dark_skin_tone:"
+			":artist_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F3EB": {
@@ -21272,7 +21272,7 @@
 		"value": "🧑🏾‍🏫",
 		"descriptor": "Teacher: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":teacher_medium_dark_skin_tone:"
+			":teacher_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F3ED": {
@@ -21280,7 +21280,7 @@
 		"value": "🧑🏾‍🏭",
 		"descriptor": "Factory Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":factory_worker_medium_dark_skin_tone:"
+			":factory_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F4BB": {
@@ -21288,7 +21288,7 @@
 		"value": "🧑🏾‍💻",
 		"descriptor": "Technologist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":technologist_medium_dark_skin_tone:"
+			":technologist_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F4BC": {
@@ -21296,7 +21296,7 @@
 		"value": "🧑🏾‍💼",
 		"descriptor": "Office Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":office_worker_medium_dark_skin_tone:"
+			":office_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F527": {
@@ -21304,7 +21304,7 @@
 		"value": "🧑🏾‍🔧",
 		"descriptor": "Mechanic: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":mechanic_medium_dark_skin_tone:"
+			":mechanic_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F52C": {
@@ -21312,7 +21312,7 @@
 		"value": "🧑🏾‍🔬",
 		"descriptor": "Scientist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":scientist_medium_dark_skin_tone:"
+			":scientist_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F680": {
@@ -21320,7 +21320,7 @@
 		"value": "🧑🏾‍🚀",
 		"descriptor": "Astronaut: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":astronaut_medium_dark_skin_tone:"
+			":astronaut_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F692": {
@@ -21328,7 +21328,7 @@
 		"value": "🧑🏾‍🚒",
 		"descriptor": "Firefighter: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":firefighter_medium_dark_skin_tone:"
+			":firefighter_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB": {
@@ -21336,7 +21336,7 @@
 		"value": "🧑🏾‍🤝‍🧑🏻",
 		"descriptor": "People Holding Hands: Medium-Dark Skin Tone, Light Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_dark_skin_tone_light_skin_tone:"
+			":people_holding_hands_medium-dark_skin_tone_light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC": {
@@ -21344,7 +21344,7 @@
 		"value": "🧑🏾‍🤝‍🧑🏼",
 		"descriptor": "People Holding Hands: Medium-Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_dark_skin_tone_medium_light_skin_tone:"
+			":people_holding_hands_medium-dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD": {
@@ -21352,7 +21352,7 @@
 		"value": "🧑🏾‍🤝‍🧑🏽",
 		"descriptor": "People Holding Hands: Medium-Dark Skin Tone, Medium Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_dark_skin_tone_medium_skin_tone:"
+			":people_holding_hands_medium-dark_skin_tone_medium_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE": {
@@ -21360,7 +21360,7 @@
 		"value": "🧑🏾‍🤝‍🧑🏾",
 		"descriptor": "People Holding Hands: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_dark_skin_tone:"
+			":people_holding_hands_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF": {
@@ -21368,7 +21368,7 @@
 		"value": "🧑🏾‍🤝‍🧑🏿",
 		"descriptor": "People Holding Hands: Medium-Dark Skin Tone, Dark Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_medium_dark_skin_tone_dark_skin_tone:"
+			":people_holding_hands_medium-dark_skin_tone_dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F9AF": {
@@ -21376,7 +21376,7 @@
 		"value": "🧑🏾‍🦯",
 		"descriptor": "Person with White Cane: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_with_white_cane_medium_dark_skin_tone:"
+			":person_with_white_cane_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F9B0": {
@@ -21384,7 +21384,7 @@
 		"value": "🧑🏾‍🦰",
 		"descriptor": "Person: Medium-Dark Skin Tone, Red Hair",
 		"shortcodes": [
-			":person_medium_dark_skin_tone_red_hair:"
+			":person_medium-dark_skin_tone_red_hair:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F9B1": {
@@ -21392,7 +21392,7 @@
 		"value": "🧑🏾‍🦱",
 		"descriptor": "Person: Medium-Dark Skin Tone, Curly Hair",
 		"shortcodes": [
-			":person_medium_dark_skin_tone_curly_hair:"
+			":person_medium-dark_skin_tone_curly_hair:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F9B2": {
@@ -21400,7 +21400,7 @@
 		"value": "🧑🏾‍🦲",
 		"descriptor": "Person: Medium-Dark Skin Tone, Bald",
 		"shortcodes": [
-			":person_medium_dark_skin_tone_bald:"
+			":person_medium-dark_skin_tone_bald:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F9B3": {
@@ -21408,7 +21408,7 @@
 		"value": "🧑🏾‍🦳",
 		"descriptor": "Person: Medium-Dark Skin Tone, White Hair",
 		"shortcodes": [
-			":person_medium_dark_skin_tone_white_hair:"
+			":person_medium-dark_skin_tone_white_hair:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F9BC": {
@@ -21416,7 +21416,7 @@
 		"value": "🧑🏾‍🦼",
 		"descriptor": "Person in Motorized Wheelchair: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_in_motorized_wheelchair_medium_dark_skin_tone:"
+			":person_in_motorized_wheelchair_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-1F9BD": {
@@ -21424,7 +21424,7 @@
 		"value": "🧑🏾‍🦽",
 		"descriptor": "Person in Manual Wheelchair: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_in_manual_wheelchair_medium_dark_skin_tone:"
+			":person_in_manual_wheelchair_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-2695": {
@@ -21432,7 +21432,7 @@
 		"value": "🧑🏾‍⚕",
 		"descriptor": "Health Worker: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":health_worker_medium_dark_skin_tone:"
+			":health_worker_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-2696": {
@@ -21440,7 +21440,7 @@
 		"value": "🧑🏾‍⚖",
 		"descriptor": "Judge: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":judge_medium_dark_skin_tone:"
+			":judge_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FE-200D-2708": {
@@ -21448,7 +21448,7 @@
 		"value": "🧑🏾‍✈",
 		"descriptor": "Pilot: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":pilot_medium_dark_skin_tone:"
+			":pilot_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FF": {
@@ -21576,7 +21576,7 @@
 		"value": "🧑🏿‍🤝‍🧑🏼",
 		"descriptor": "People Holding Hands: Dark Skin Tone, Medium-Light Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_dark_skin_tone_medium_light_skin_tone:"
+			":people_holding_hands_dark_skin_tone_medium-light_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD": {
@@ -21592,7 +21592,7 @@
 		"value": "🧑🏿‍🤝‍🧑🏾",
 		"descriptor": "People Holding Hands: Dark Skin Tone, Medium-Dark Skin Tone",
 		"shortcodes": [
-			":people_holding_hands_dark_skin_tone_medium_dark_skin_tone:"
+			":people_holding_hands_dark_skin_tone_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF": {
@@ -21896,7 +21896,7 @@
 		"value": "🧒🏼",
 		"descriptor": "Child: Medium-Light Skin Tone",
 		"shortcodes": [
-			":child_medium_light_skin_tone:"
+			":child_medium-light_skin_tone:"
 		]
 	},
 	"1F9D2-1F3FD": {
@@ -21912,7 +21912,7 @@
 		"value": "🧒🏾",
 		"descriptor": "Child: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":child_medium_dark_skin_tone:"
+			":child_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D2-1F3FF": {
@@ -21944,7 +21944,7 @@
 		"value": "🧓🏼",
 		"descriptor": "Older Person: Medium-Light Skin Tone",
 		"shortcodes": [
-			":older_person_medium_light_skin_tone:"
+			":older_person_medium-light_skin_tone:"
 		]
 	},
 	"1F9D3-1F3FD": {
@@ -21960,7 +21960,7 @@
 		"value": "🧓🏾",
 		"descriptor": "Older Person: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":older_person_medium_dark_skin_tone:"
+			":older_person_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D3-1F3FF": {
@@ -21992,7 +21992,7 @@
 		"value": "🧔🏼",
 		"descriptor": "Man: Medium-Light Skin Tone, Beard",
 		"shortcodes": [
-			":man_medium_light_skin_tone_beard:"
+			":man_medium-light_skin_tone_beard:"
 		]
 	},
 	"1F9D4-1F3FD": {
@@ -22008,7 +22008,7 @@
 		"value": "🧔🏾",
 		"descriptor": "Man: Medium-Dark Skin Tone, Beard",
 		"shortcodes": [
-			":man_medium_dark_skin_tone_beard:"
+			":man_medium-dark_skin_tone_beard:"
 		]
 	},
 	"1F9D4-1F3FF": {
@@ -22040,7 +22040,7 @@
 		"value": "🧕🏼",
 		"descriptor": "Woman with Headscarf: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_with_headscarf_medium_light_skin_tone:"
+			":woman_with_headscarf_medium-light_skin_tone:"
 		]
 	},
 	"1F9D5-1F3FD": {
@@ -22056,7 +22056,7 @@
 		"value": "🧕🏾",
 		"descriptor": "Woman with Headscarf: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_with_headscarf_medium_dark_skin_tone:"
+			":woman_with_headscarf_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D5-1F3FF": {
@@ -22104,7 +22104,7 @@
 		"value": "🧖🏼",
 		"descriptor": "Person in Steamy Room: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_in_steamy_room_medium_light_skin_tone:"
+			":person_in_steamy_room_medium-light_skin_tone:"
 		]
 	},
 	"1F9D6-1F3FC-200D-2640": {
@@ -22112,7 +22112,7 @@
 		"value": "🧖🏼‍♀",
 		"descriptor": "Woman in Steamy Room: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_in_steamy_room_medium_light_skin_tone:"
+			":woman_in_steamy_room_medium-light_skin_tone:"
 		]
 	},
 	"1F9D6-1F3FC-200D-2642": {
@@ -22120,7 +22120,7 @@
 		"value": "🧖🏼‍♂",
 		"descriptor": "Man in Steamy Room: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_in_steamy_room_medium_light_skin_tone:"
+			":man_in_steamy_room_medium-light_skin_tone:"
 		]
 	},
 	"1F9D6-1F3FD": {
@@ -22152,7 +22152,7 @@
 		"value": "🧖🏾",
 		"descriptor": "Person in Steamy Room: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_in_steamy_room_medium_dark_skin_tone:"
+			":person_in_steamy_room_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D6-1F3FE-200D-2640": {
@@ -22160,7 +22160,7 @@
 		"value": "🧖🏾‍♀",
 		"descriptor": "Woman in Steamy Room: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_in_steamy_room_medium_dark_skin_tone:"
+			":woman_in_steamy_room_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D6-1F3FE-200D-2642": {
@@ -22168,7 +22168,7 @@
 		"value": "🧖🏾‍♂",
 		"descriptor": "Man in Steamy Room: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_in_steamy_room_medium_dark_skin_tone:"
+			":man_in_steamy_room_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D6-1F3FF": {
@@ -22248,7 +22248,7 @@
 		"value": "🧗🏼",
 		"descriptor": "Person Climbing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_climbing_medium_light_skin_tone:"
+			":person_climbing_medium-light_skin_tone:"
 		]
 	},
 	"1F9D7-1F3FC-200D-2640": {
@@ -22256,7 +22256,7 @@
 		"value": "🧗🏼‍♀",
 		"descriptor": "Woman Climbing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_climbing_medium_light_skin_tone:"
+			":woman_climbing_medium-light_skin_tone:"
 		]
 	},
 	"1F9D7-1F3FC-200D-2642": {
@@ -22264,7 +22264,7 @@
 		"value": "🧗🏼‍♂",
 		"descriptor": "Man Climbing: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_climbing_medium_light_skin_tone:"
+			":man_climbing_medium-light_skin_tone:"
 		]
 	},
 	"1F9D7-1F3FD": {
@@ -22296,7 +22296,7 @@
 		"value": "🧗🏾",
 		"descriptor": "Person Climbing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_climbing_medium_dark_skin_tone:"
+			":person_climbing_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D7-1F3FE-200D-2640": {
@@ -22304,7 +22304,7 @@
 		"value": "🧗🏾‍♀",
 		"descriptor": "Woman Climbing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_climbing_medium_dark_skin_tone:"
+			":woman_climbing_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D7-1F3FE-200D-2642": {
@@ -22312,7 +22312,7 @@
 		"value": "🧗🏾‍♂",
 		"descriptor": "Man Climbing: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_climbing_medium_dark_skin_tone:"
+			":man_climbing_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D7-1F3FF": {
@@ -22392,7 +22392,7 @@
 		"value": "🧘🏼",
 		"descriptor": "Person in Lotus Position: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_in_lotus_position_medium_light_skin_tone:"
+			":person_in_lotus_position_medium-light_skin_tone:"
 		]
 	},
 	"1F9D8-1F3FC-200D-2640": {
@@ -22400,7 +22400,7 @@
 		"value": "🧘🏼‍♀",
 		"descriptor": "Woman in Lotus Position: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_in_lotus_position_medium_light_skin_tone:"
+			":woman_in_lotus_position_medium-light_skin_tone:"
 		]
 	},
 	"1F9D8-1F3FC-200D-2642": {
@@ -22408,7 +22408,7 @@
 		"value": "🧘🏼‍♂",
 		"descriptor": "Man in Lotus Position: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_in_lotus_position_medium_light_skin_tone:"
+			":man_in_lotus_position_medium-light_skin_tone:"
 		]
 	},
 	"1F9D8-1F3FD": {
@@ -22440,7 +22440,7 @@
 		"value": "🧘🏾",
 		"descriptor": "Person in Lotus Position: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_in_lotus_position_medium_dark_skin_tone:"
+			":person_in_lotus_position_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D8-1F3FE-200D-2640": {
@@ -22448,7 +22448,7 @@
 		"value": "🧘🏾‍♀",
 		"descriptor": "Woman in Lotus Position: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_in_lotus_position_medium_dark_skin_tone:"
+			":woman_in_lotus_position_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D8-1F3FE-200D-2642": {
@@ -22456,7 +22456,7 @@
 		"value": "🧘🏾‍♂",
 		"descriptor": "Man in Lotus Position: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_in_lotus_position_medium_dark_skin_tone:"
+			":man_in_lotus_position_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D8-1F3FF": {
@@ -22536,7 +22536,7 @@
 		"value": "🧙🏼",
 		"descriptor": "Mage: Medium-Light Skin Tone",
 		"shortcodes": [
-			":mage_medium_light_skin_tone:"
+			":mage_medium-light_skin_tone:"
 		]
 	},
 	"1F9D9-1F3FC-200D-2640": {
@@ -22544,7 +22544,7 @@
 		"value": "🧙🏼‍♀",
 		"descriptor": "Woman Mage: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_mage_medium_light_skin_tone:"
+			":woman_mage_medium-light_skin_tone:"
 		]
 	},
 	"1F9D9-1F3FC-200D-2642": {
@@ -22552,7 +22552,7 @@
 		"value": "🧙🏼‍♂",
 		"descriptor": "Man Mage: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_mage_medium_light_skin_tone:"
+			":man_mage_medium-light_skin_tone:"
 		]
 	},
 	"1F9D9-1F3FD": {
@@ -22584,7 +22584,7 @@
 		"value": "🧙🏾",
 		"descriptor": "Mage: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":mage_medium_dark_skin_tone:"
+			":mage_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D9-1F3FE-200D-2640": {
@@ -22592,7 +22592,7 @@
 		"value": "🧙🏾‍♀",
 		"descriptor": "Woman Mage: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_mage_medium_dark_skin_tone:"
+			":woman_mage_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D9-1F3FE-200D-2642": {
@@ -22600,7 +22600,7 @@
 		"value": "🧙🏾‍♂",
 		"descriptor": "Man Mage: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_mage_medium_dark_skin_tone:"
+			":man_mage_medium-dark_skin_tone:"
 		]
 	},
 	"1F9D9-1F3FF": {
@@ -22680,7 +22680,7 @@
 		"value": "🧚🏼",
 		"descriptor": "Fairy: Medium-Light Skin Tone",
 		"shortcodes": [
-			":fairy_medium_light_skin_tone:"
+			":fairy_medium-light_skin_tone:"
 		]
 	},
 	"1F9DA-1F3FC-200D-2640": {
@@ -22688,7 +22688,7 @@
 		"value": "🧚🏼‍♀",
 		"descriptor": "Woman Fairy: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_fairy_medium_light_skin_tone:"
+			":woman_fairy_medium-light_skin_tone:"
 		]
 	},
 	"1F9DA-1F3FC-200D-2642": {
@@ -22696,7 +22696,7 @@
 		"value": "🧚🏼‍♂",
 		"descriptor": "Man Fairy: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_fairy_medium_light_skin_tone:"
+			":man_fairy_medium-light_skin_tone:"
 		]
 	},
 	"1F9DA-1F3FD": {
@@ -22728,7 +22728,7 @@
 		"value": "🧚🏾",
 		"descriptor": "Fairy: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":fairy_medium_dark_skin_tone:"
+			":fairy_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DA-1F3FE-200D-2640": {
@@ -22736,7 +22736,7 @@
 		"value": "🧚🏾‍♀",
 		"descriptor": "Woman Fairy: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_fairy_medium_dark_skin_tone:"
+			":woman_fairy_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DA-1F3FE-200D-2642": {
@@ -22744,7 +22744,7 @@
 		"value": "🧚🏾‍♂",
 		"descriptor": "Man Fairy: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_fairy_medium_dark_skin_tone:"
+			":man_fairy_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DA-1F3FF": {
@@ -22824,7 +22824,7 @@
 		"value": "🧛🏼",
 		"descriptor": "Vampire: Medium-Light Skin Tone",
 		"shortcodes": [
-			":vampire_medium_light_skin_tone:"
+			":vampire_medium-light_skin_tone:"
 		]
 	},
 	"1F9DB-1F3FC-200D-2640": {
@@ -22832,7 +22832,7 @@
 		"value": "🧛🏼‍♀",
 		"descriptor": "Woman Vampire: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_vampire_medium_light_skin_tone:"
+			":woman_vampire_medium-light_skin_tone:"
 		]
 	},
 	"1F9DB-1F3FC-200D-2642": {
@@ -22840,7 +22840,7 @@
 		"value": "🧛🏼‍♂",
 		"descriptor": "Man Vampire: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_vampire_medium_light_skin_tone:"
+			":man_vampire_medium-light_skin_tone:"
 		]
 	},
 	"1F9DB-1F3FD": {
@@ -22872,7 +22872,7 @@
 		"value": "🧛🏾",
 		"descriptor": "Vampire: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":vampire_medium_dark_skin_tone:"
+			":vampire_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DB-1F3FE-200D-2640": {
@@ -22880,7 +22880,7 @@
 		"value": "🧛🏾‍♀",
 		"descriptor": "Woman Vampire: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_vampire_medium_dark_skin_tone:"
+			":woman_vampire_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DB-1F3FE-200D-2642": {
@@ -22888,7 +22888,7 @@
 		"value": "🧛🏾‍♂",
 		"descriptor": "Man Vampire: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_vampire_medium_dark_skin_tone:"
+			":man_vampire_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DB-1F3FF": {
@@ -22968,7 +22968,7 @@
 		"value": "🧜🏼",
 		"descriptor": "Merperson: Medium-Light Skin Tone",
 		"shortcodes": [
-			":merperson_medium_light_skin_tone:"
+			":merperson_medium-light_skin_tone:"
 		]
 	},
 	"1F9DC-1F3FC-200D-2640": {
@@ -22976,7 +22976,7 @@
 		"value": "🧜🏼‍♀",
 		"descriptor": "Mermaid: Medium-Light Skin Tone",
 		"shortcodes": [
-			":mermaid_medium_light_skin_tone:"
+			":mermaid_medium-light_skin_tone:"
 		]
 	},
 	"1F9DC-1F3FC-200D-2642": {
@@ -22984,7 +22984,7 @@
 		"value": "🧜🏼‍♂",
 		"descriptor": "Merman: Medium-Light Skin Tone",
 		"shortcodes": [
-			":merman_medium_light_skin_tone:"
+			":merman_medium-light_skin_tone:"
 		]
 	},
 	"1F9DC-1F3FD": {
@@ -23016,7 +23016,7 @@
 		"value": "🧜🏾",
 		"descriptor": "Merperson: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":merperson_medium_dark_skin_tone:"
+			":merperson_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DC-1F3FE-200D-2640": {
@@ -23024,7 +23024,7 @@
 		"value": "🧜🏾‍♀",
 		"descriptor": "Mermaid: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":mermaid_medium_dark_skin_tone:"
+			":mermaid_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DC-1F3FE-200D-2642": {
@@ -23032,7 +23032,7 @@
 		"value": "🧜🏾‍♂",
 		"descriptor": "Merman: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":merman_medium_dark_skin_tone:"
+			":merman_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DC-1F3FF": {
@@ -23112,7 +23112,7 @@
 		"value": "🧝🏼",
 		"descriptor": "Elf: Medium-Light Skin Tone",
 		"shortcodes": [
-			":elf_medium_light_skin_tone:"
+			":elf_medium-light_skin_tone:"
 		]
 	},
 	"1F9DD-1F3FC-200D-2640": {
@@ -23120,7 +23120,7 @@
 		"value": "🧝🏼‍♀",
 		"descriptor": "Woman Elf: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_elf_medium_light_skin_tone:"
+			":woman_elf_medium-light_skin_tone:"
 		]
 	},
 	"1F9DD-1F3FC-200D-2642": {
@@ -23128,7 +23128,7 @@
 		"value": "🧝🏼‍♂",
 		"descriptor": "Man Elf: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_elf_medium_light_skin_tone:"
+			":man_elf_medium-light_skin_tone:"
 		]
 	},
 	"1F9DD-1F3FD": {
@@ -23160,7 +23160,7 @@
 		"value": "🧝🏾",
 		"descriptor": "Elf: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":elf_medium_dark_skin_tone:"
+			":elf_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DD-1F3FE-200D-2640": {
@@ -23168,7 +23168,7 @@
 		"value": "🧝🏾‍♀",
 		"descriptor": "Woman Elf: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_elf_medium_dark_skin_tone:"
+			":woman_elf_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DD-1F3FE-200D-2642": {
@@ -23176,7 +23176,7 @@
 		"value": "🧝🏾‍♂",
 		"descriptor": "Man Elf: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_elf_medium_dark_skin_tone:"
+			":man_elf_medium-dark_skin_tone:"
 		]
 	},
 	"1F9DD-1F3FF": {
@@ -23536,7 +23536,7 @@
 		"value": "🩱",
 		"descriptor": "One-Piece Swimsuit",
 		"shortcodes": [
-			":one_piece_swimsuit:"
+			":one-piece_swimsuit:"
 		]
 	},
 	"1FA72": {
@@ -23584,7 +23584,7 @@
 		"value": "🪀",
 		"descriptor": "Yo-Yo",
 		"shortcodes": [
-			":yo_yo:"
+			":yo-yo:"
 		]
 	},
 	"1FA81": {
@@ -24073,7 +24073,7 @@
 		"value": "☝🏼",
 		"descriptor": "Index Pointing Up: Medium-Light Skin Tone",
 		"shortcodes": [
-			":index_pointing_up_medium_light_skin_tone:"
+			":index_pointing_up_medium-light_skin_tone:"
 		]
 	},
 	"261D-1F3FD": {
@@ -24089,7 +24089,7 @@
 		"value": "☝🏾",
 		"descriptor": "Index Pointing Up: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":index_pointing_up_medium_dark_skin_tone:"
+			":index_pointing_up_medium-dark_skin_tone:"
 		]
 	},
 	"261D-1F3FF": {
@@ -24409,7 +24409,7 @@
 		"value": "⚜",
 		"descriptor": "Fleur-de-lis",
 		"shortcodes": [
-			":fleur_de_lis:"
+			":fleur-de-lis:"
 		]
 	},
 	"26A0": {
@@ -24658,7 +24658,7 @@
 		"value": "⛹🏼",
 		"descriptor": "Person Bouncing Ball: Medium-Light Skin Tone",
 		"shortcodes": [
-			":person_bouncing_ball_medium_light_skin_tone:"
+			":person_bouncing_ball_medium-light_skin_tone:"
 		]
 	},
 	"26F9-1F3FC-200D-2640": {
@@ -24666,7 +24666,7 @@
 		"value": "⛹🏼‍♀",
 		"descriptor": "Woman Bouncing Ball: Medium-Light Skin Tone",
 		"shortcodes": [
-			":woman_bouncing_ball_medium_light_skin_tone:"
+			":woman_bouncing_ball_medium-light_skin_tone:"
 		]
 	},
 	"26F9-1F3FC-200D-2642": {
@@ -24674,7 +24674,7 @@
 		"value": "⛹🏼‍♂",
 		"descriptor": "Man Bouncing Ball: Medium-Light Skin Tone",
 		"shortcodes": [
-			":man_bouncing_ball_medium_light_skin_tone:"
+			":man_bouncing_ball_medium-light_skin_tone:"
 		]
 	},
 	"26F9-1F3FD": {
@@ -24706,7 +24706,7 @@
 		"value": "⛹🏾",
 		"descriptor": "Person Bouncing Ball: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":person_bouncing_ball_medium_dark_skin_tone:"
+			":person_bouncing_ball_medium-dark_skin_tone:"
 		]
 	},
 	"26F9-1F3FE-200D-2640": {
@@ -24714,7 +24714,7 @@
 		"value": "⛹🏾‍♀",
 		"descriptor": "Woman Bouncing Ball: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":woman_bouncing_ball_medium_dark_skin_tone:"
+			":woman_bouncing_ball_medium-dark_skin_tone:"
 		]
 	},
 	"26F9-1F3FE-200D-2642": {
@@ -24722,7 +24722,7 @@
 		"value": "⛹🏾‍♂",
 		"descriptor": "Man Bouncing Ball: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":man_bouncing_ball_medium_dark_skin_tone:"
+			":man_bouncing_ball_medium-dark_skin_tone:"
 		]
 	},
 	"26F9-1F3FF": {
@@ -24835,7 +24835,7 @@
 		"value": "✊🏼",
 		"descriptor": "Raised Fist: Medium-Light Skin Tone",
 		"shortcodes": [
-			":raised_fist_medium_light_skin_tone:"
+			":raised_fist_medium-light_skin_tone:"
 		]
 	},
 	"270A-1F3FD": {
@@ -24851,7 +24851,7 @@
 		"value": "✊🏾",
 		"descriptor": "Raised Fist: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":raised_fist_medium_dark_skin_tone:"
+			":raised_fist_medium-dark_skin_tone:"
 		]
 	},
 	"270A-1F3FF": {
@@ -24884,7 +24884,7 @@
 		"value": "✋🏼",
 		"descriptor": "Raised Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":raised_hand_medium_light_skin_tone:"
+			":raised_hand_medium-light_skin_tone:"
 		]
 	},
 	"270B-1F3FD": {
@@ -24900,7 +24900,7 @@
 		"value": "✋🏾",
 		"descriptor": "Raised Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":raised_hand_medium_dark_skin_tone:"
+			":raised_hand_medium-dark_skin_tone:"
 		]
 	},
 	"270B-1F3FF": {
@@ -24932,7 +24932,7 @@
 		"value": "✌🏼",
 		"descriptor": "Victory Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":victory_hand_medium_light_skin_tone:"
+			":victory_hand_medium-light_skin_tone:"
 		]
 	},
 	"270C-1F3FD": {
@@ -24948,7 +24948,7 @@
 		"value": "✌🏾",
 		"descriptor": "Victory Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":victory_hand_medium_dark_skin_tone:"
+			":victory_hand_medium-dark_skin_tone:"
 		]
 	},
 	"270C-1F3FF": {
@@ -24980,7 +24980,7 @@
 		"value": "✍🏼",
 		"descriptor": "Writing Hand: Medium-Light Skin Tone",
 		"shortcodes": [
-			":writing_hand_medium_light_skin_tone:"
+			":writing_hand_medium-light_skin_tone:"
 		]
 	},
 	"270D-1F3FD": {
@@ -24996,7 +24996,7 @@
 		"value": "✍🏾",
 		"descriptor": "Writing Hand: Medium-Dark Skin Tone",
 		"shortcodes": [
-			":writing_hand_medium_dark_skin_tone:"
+			":writing_hand_medium-dark_skin_tone:"
 		]
 	},
 	"270D-1F3FF": {
@@ -25421,7 +25421,7 @@
 		"value": "️",
 		"descriptor": "Variation Selector-16",
 		"shortcodes": [
-			":variation_selector_16:"
+			":variation_selector-16:"
 		]
 	}
 }

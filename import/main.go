@@ -133,7 +133,6 @@ func getEmojiShortCode(name string) string {
 	shortCode := emojiCodeRegex.ReplaceAllString(name, "")
 	shortCode = strings.ToLower(shortCode)
 	shortCode = strings.ReplaceAll(shortCode, " ", "_")
-	shortCode = strings.ReplaceAll(shortCode, "-", "_")
 	shortCode = fmt.Sprintf(":%s:", shortCode)
 	return shortCode
 }
