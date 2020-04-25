@@ -1,4 +1,4 @@
-module github.com/tmdvs/Go-Emoji-Utils
+module github.com/desmos-labs/Go-Emoji-Utils
 
 go 1.14
 

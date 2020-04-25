@@ -3,8 +3,8 @@ package tests
 import (
 	"testing"
 
+	emoji "github.com/desmos-labs/Go-Emoji-Utils"
 	"github.com/stretchr/testify/assert"
-	emoji "github.com/tmdvs/Go-Emoji-Utils"
 )
 
 func BenchmarkSearch(b *testing.B) {

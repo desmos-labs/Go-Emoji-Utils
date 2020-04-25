@@ -11,9 +11,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/tmdvs/Go-Emoji-Utils/utils"
+	"github.com/desmos-labs/Go-Emoji-Utils/utils"
 
-	"github.com/tmdvs/Go-Emoji-Utils"
+	"github.com/desmos-labs/Go-Emoji-Utils"
 
 	"github.com/PuerkitoBio/goquery"
 )
