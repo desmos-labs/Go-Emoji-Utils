@@ -125,3 +125,12 @@ func RemoveAll(input string) string {
 	return strings.TrimSpace(strings.Join(strings.Fields(input), " "))
 	//return input
 }
+
+// ListAll - Lists all the existing emojis
+func ListAll() []Emoji {
+	var emojis []Emoji
+	for _, emoji := range Emojis {
+		emojis = append(emojis, emoji)
+	}
+	return emojis
+}
