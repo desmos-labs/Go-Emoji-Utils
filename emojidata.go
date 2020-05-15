@@ -1,5 +1,8 @@
 package emoji
 
+// EmojisList represents the whole registered emojis as a list
+var EmojisList []Emoji
+
 // Emojis - Map of Emoji Runes as Hex keys to their description
 var Emojis = map[string]Emoji{
 	"1F004": {

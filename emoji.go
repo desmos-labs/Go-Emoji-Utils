@@ -54,6 +54,7 @@ func init() {
 	byteValue, e := ioutil.ReadAll(jsonFile)
 	if e != nil {
 		if len(Emojis) > 0 { // Use build-in emojis data (from emojidata.go)
+			populateEmojisList()
 			return
 		}
 		panic(e)
@@ -62,6 +63,14 @@ func init() {
 	err = json.Unmarshal(byteValue, &Emojis)
 	if err != nil {
 		panic(e)
+	}
+	populateEmojisList()
+}
+
+// populateEmojisList - takes the emojis stored inside the Emojis map and puts them into the EmojisList as well
+func populateEmojisList() {
+	for _, emoji := range Emojis {
+		EmojisList = append(EmojisList, emoji)
 	}
 }
 
@@ -124,13 +133,4 @@ func RemoveAll(input string) string {
 	// Remove and trim and left over whitespace
 	return strings.TrimSpace(strings.Join(strings.Fields(input), " "))
 	//return input
-}
-
-// ListAll - Lists all the existing emojis
-func ListAll() []Emoji {
-	var emojis []Emoji
-	for _, emoji := range Emojis {
-		emojis = append(emojis, emoji)
-	}
-	return emojis
 }
