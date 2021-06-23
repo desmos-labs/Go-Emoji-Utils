@@ -97,8 +97,10 @@ func main() {
 
 		// Grab the shortcodes from the list
 		var shortCodes []string
+		platformsRegex := regexp.MustCompile("\\n.*\\n")
 		doc.Find("ul.shortcodes li").Each(func(i int, s *goquery.Selection) {
-			shortCodes = append(shortCodes, s.Text())
+			nodeText := platformsRegex.ReplaceAllString(s.Text(), "")
+			shortCodes = append(shortCodes, nodeText)
 		})
 
 		// Generate a shortcode based on the emoji name if no shortcodes were found
